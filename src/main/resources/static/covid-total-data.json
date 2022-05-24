@@ -1,0 +1,4852 @@
+{
+  "day_stat": [
+    {
+      "date": "2020-03-03",
+      "total_cases": 1,
+      "total_deaths": 0,
+      "total_recovered": 1
+    },
+    {
+      "date": "2020-03-04",
+      "total_cases": 1,
+      "total_deaths": 0,
+      "total_recovered": 1
+    },
+    {
+      "date": "2020-03-05",
+      "total_cases": 1,
+      "total_deaths": 0,
+      "total_recovered": 1
+    },
+    {
+      "date": "2020-03-06",
+      "total_cases": 1,
+      "total_deaths": 0,
+      "total_recovered": 1
+    },
+    {
+      "date": "2020-03-07",
+      "total_cases": 1,
+      "total_deaths": 0,
+      "total_recovered": 1
+    },
+    {
+      "date": "2020-03-08",
+      "total_cases": 1,
+      "total_deaths": 0,
+      "total_recovered": 1
+    },
+    {
+      "date": "2020-03-09",
+      "total_cases": 1,
+      "total_deaths": 0,
+      "total_recovered": 1
+    },
+    {
+      "date": "2020-03-10",
+      "total_cases": 1,
+      "total_deaths": 0,
+      "total_recovered": 1
+    },
+    {
+      "date": "2020-03-11",
+      "total_cases": 1,
+      "total_deaths": 0,
+      "total_recovered": 1
+    },
+    {
+      "date": "2020-03-12",
+      "total_cases": 1,
+      "total_deaths": 0,
+      "total_recovered": 1
+    },
+    {
+      "date": "2020-03-13",
+      "total_cases": 3,
+      "total_deaths": 1,
+      "total_recovered": 2
+    },
+    {
+      "date": "2020-03-14",
+      "total_cases": 3,
+      "total_deaths": 1,
+      "total_recovered": 2
+    },
+    {
+      "date": "2020-03-15",
+      "total_cases": 3,
+      "total_deaths": 1,
+      "total_recovered": 2
+    },
+    {
+      "date": "2020-03-16",
+      "total_cases": 7,
+      "total_deaths": 1,
+      "total_recovered": 6
+    },
+    {
+      "date": "2020-03-17",
+      "total_cases": 14,
+      "total_deaths": 2,
+      "total_recovered": 12
+    },
+    {
+      "date": "2020-03-18",
+      "total_cases": 14,
+      "total_deaths": 2,
+      "total_recovered": 12
+    },
+    {
+      "date": "2020-03-19",
+      "total_cases": 16,
+      "total_deaths": 2,
+      "total_recovered": 14
+    },
+    {
+      "date": "2020-03-20",
+      "total_cases": 29,
+      "total_deaths": 3,
+      "total_recovered": 26
+    },
+    {
+      "date": "2020-03-21",
+      "total_cases": 47,
+      "total_deaths": 3,
+      "total_recovered": 44
+    },
+    {
+      "date": "2020-03-22",
+      "total_cases": 73,
+      "total_deaths": 3,
+      "total_recovered": 70
+    },
+    {
+      "date": "2020-03-23",
+      "total_cases": 73,
+      "total_deaths": 3,
+      "total_recovered": 70
+    },
+    {
+      "date": "2020-03-24",
+      "total_cases": 97,
+      "total_deaths": 3,
+      "total_recovered": 94
+    },
+    {
+      "date": "2020-03-25",
+      "total_cases": 145,
+      "total_deaths": 5,
+      "total_recovered": 140
+    },
+    {
+      "date": "2020-03-26",
+      "total_cases": 196,
+      "total_deaths": 5,
+      "total_recovered": 191
+    },
+    {
+      "date": "2020-03-27",
+      "total_cases": 310,
+      "total_deaths": 5,
+      "total_recovered": 305
+    },
+    {
+      "date": "2020-03-28",
+      "total_cases": 356,
+      "total_deaths": 9,
+      "total_recovered": 347
+    },
+    {
+      "date": "2020-03-29",
+      "total_cases": 475,
+      "total_deaths": 10,
+      "total_recovered": 465
+    },
+    {
+      "date": "2020-03-30",
+      "total_cases": 548,
+      "total_deaths": 13,
+      "total_recovered": 535
+    },
+    {
+      "date": "2020-03-31",
+      "total_cases": 645,
+      "total_deaths": 17,
+      "total_recovered": 628
+    },
+    {
+      "date": "2020-04-01",
+      "total_cases": 794,
+      "total_deaths": 20,
+      "total_recovered": 774
+    },
+    {
+      "date": "2020-04-02",
+      "total_cases": 897,
+      "total_deaths": 22,
+      "total_recovered": 875
+    },
+    {
+      "date": "2020-04-03",
+      "total_cases": 1072,
+      "total_deaths": 27,
+      "total_recovered": 1045
+    },
+    {
+      "date": "2020-04-04",
+      "total_cases": 1225,
+      "total_deaths": 32,
+      "total_recovered": 1193
+    },
+    {
+      "date": "2020-04-05",
+      "total_cases": 1308,
+      "total_deaths": 37,
+      "total_recovered": 1271
+    },
+    {
+      "date": "2020-04-06",
+      "total_cases": 1319,
+      "total_deaths": 38,
+      "total_recovered": 1281
+    },
+    {
+      "date": "2020-04-07",
+      "total_cases": 1462,
+      "total_deaths": 45,
+      "total_recovered": 1417
+    },
+    {
+      "date": "2020-04-08",
+      "total_cases": 1668,
+      "total_deaths": 52,
+      "total_recovered": 1616
+    },
+    {
+      "date": "2020-04-09",
+      "total_cases": 1892,
+      "total_deaths": 57,
+      "total_recovered": 1835
+    },
+    {
+      "date": "2020-04-10",
+      "total_cases": 2203,
+      "total_deaths": 69,
+      "total_recovered": 2134
+    },
+    {
+      "date": "2020-04-11",
+      "total_cases": 2511,
+      "total_deaths": 73,
+      "total_recovered": 2438
+    },
+    {
+      "date": "2020-04-12",
+      "total_cases": 2777,
+      "total_deaths": 83,
+      "total_recovered": 2694
+    },
+    {
+      "date": "2020-04-13",
+      "total_cases": 3102,
+      "total_deaths": 93,
+      "total_recovered": 3009
+    },
+    {
+      "date": "2020-04-14",
+      "total_cases": 3372,
+      "total_deaths": 98,
+      "total_recovered": 3274
+    },
+    {
+      "date": "2020-04-15",
+      "total_cases": 3764,
+      "total_deaths": 108,
+      "total_recovered": 3656
+    },
+    {
+      "date": "2020-04-16",
+      "total_cases": 4161,
+      "total_deaths": 116,
+      "total_recovered": 4045
+    },
+    {
+      "date": "2020-04-17",
+      "total_cases": 4662,
+      "total_deaths": 125,
+      "total_recovered": 4537
+    },
+    {
+      "date": "2020-04-18",
+      "total_cases": 5106,
+      "total_deaths": 133,
+      "total_recovered": 4973
+    },
+    {
+      "date": "2020-04-19",
+      "total_cases": 5449,
+      "total_deaths": 141,
+      "total_recovered": 5308
+    },
+    {
+      "date": "2020-04-20",
+      "total_cases": 5710,
+      "total_deaths": 151,
+      "total_recovered": 5559
+    },
+    {
+      "date": "2020-04-21",
+      "total_cases": 6125,
+      "total_deaths": 161,
+      "total_recovered": 5964
+    },
+    {
+      "date": "2020-04-22",
+      "total_cases": 6592,
+      "total_deaths": 174,
+      "total_recovered": 6418
+    },
+    {
+      "date": "2020-04-23",
+      "total_cases": 7170,
+      "total_deaths": 187,
+      "total_recovered": 6983
+    },
+    {
+      "date": "2020-04-24",
+      "total_cases": 7647,
+      "total_deaths": 201,
+      "total_recovered": 7446
+    },
+    {
+      "date": "2020-04-25",
+      "total_cases": 8125,
+      "total_deaths": 201,
+      "total_recovered": 7924
+    },
+    {
+      "date": "2020-04-26",
+      "total_cases": 8617,
+      "total_deaths": 209,
+      "total_recovered": 8408
+    },
+    {
+      "date": "2020-04-27",
+      "total_cases": 9009,
+      "total_deaths": 220,
+      "total_recovered": 8789
+    },
+    {
+      "date": "2020-04-28",
+      "total_cases": 9410,
+      "total_deaths": 239,
+      "total_recovered": 9171
+    },
+    {
+      "date": "2020-04-29",
+      "total_cases": 9866,
+      "total_deaths": 250,
+      "total_recovered": 9616
+    },
+    {
+      "date": "2020-04-30",
+      "total_cases": 10406,
+      "total_deaths": 261,
+      "total_recovered": 10145
+    },
+    {
+      "date": "2020-05-01",
+      "total_cases": 10861,
+      "total_deaths": 272,
+      "total_recovered": 10589
+    },
+    {
+      "date": "2020-05-02",
+      "total_cases": 11411,
+      "total_deaths": 279,
+      "total_recovered": 11132
+    },
+    {
+      "date": "2020-05-03",
+      "total_cases": 11913,
+      "total_deaths": 288,
+      "total_recovered": 11625
+    },
+    {
+      "date": "2020-05-04",
+      "total_cases": 12331,
+      "total_deaths": 303,
+      "total_recovered": 12028
+    },
+    {
+      "date": "2020-05-05",
+      "total_cases": 12697,
+      "total_deaths": 316,
+      "total_recovered": 12381
+    },
+    {
+      "date": "2020-05-06",
+      "total_cases": 13184,
+      "total_deaths": 327,
+      "total_recovered": 12857
+    },
+    {
+      "date": "2020-05-07",
+      "total_cases": 13691,
+      "total_deaths": 340,
+      "total_recovered": 13351
+    },
+    {
+      "date": "2020-05-08",
+      "total_cases": 14195,
+      "total_deaths": 361,
+      "total_recovered": 13834
+    },
+    {
+      "date": "2020-05-09",
+      "total_cases": 14710,
+      "total_deaths": 376,
+      "total_recovered": 14334
+    },
+    {
+      "date": "2020-05-10",
+      "total_cases": 15232,
+      "total_deaths": 391,
+      "total_recovered": 14841
+    },
+    {
+      "date": "2020-05-11",
+      "total_cases": 15648,
+      "total_deaths": 408,
+      "total_recovered": 15240
+    },
+    {
+      "date": "2020-05-12",
+      "total_cases": 16023,
+      "total_deaths": 425,
+      "total_recovered": 15598
+    },
+    {
+      "date": "2020-05-13",
+      "total_cases": 16425,
+      "total_deaths": 439,
+      "total_recovered": 15986
+    },
+    {
+      "date": "2020-05-14",
+      "total_cases": 16847,
+      "total_deaths": 456,
+      "total_recovered": 16391
+    },
+    {
+      "date": "2020-05-15",
+      "total_cases": 17330,
+      "total_deaths": 476,
+      "total_recovered": 16854
+    },
+    {
+      "date": "2020-05-16",
+      "total_cases": 17858,
+      "total_deaths": 497,
+      "total_recovered": 17361
+    },
+    {
+      "date": "2020-05-17",
+      "total_cases": 18291,
+      "total_deaths": 514,
+      "total_recovered": 17777
+    },
+    {
+      "date": "2020-05-18",
+      "total_cases": 18616,
+      "total_deaths": 535,
+      "total_recovered": 18081
+    },
+    {
+      "date": "2020-05-19",
+      "total_cases": 18876,
+      "total_deaths": 548,
+      "total_recovered": 18328
+    },
+    {
+      "date": "2020-05-20",
+      "total_cases": 19230,
+      "total_deaths": 564,
+      "total_recovered": 18666
+    },
+    {
+      "date": "2020-05-21",
+      "total_cases": 19706,
+      "total_deaths": 579,
+      "total_recovered": 19127
+    },
+    {
+      "date": "2020-05-22",
+      "total_cases": 20148,
+      "total_deaths": 588,
+      "total_recovered": 19560
+    },
+    {
+      "date": "2020-05-23",
+      "total_cases": 20580,
+      "total_deaths": 605,
+      "total_recovered": 19975
+    },
+    {
+      "date": "2020-05-24",
+      "total_cases": 20986,
+      "total_deaths": 617,
+      "total_recovered": 20369
+    },
+    {
+      "date": "2020-05-25",
+      "total_cases": 21245,
+      "total_deaths": 623,
+      "total_recovered": 20622
+    },
+    {
+      "date": "2020-05-26",
+      "total_cases": 21584,
+      "total_deaths": 644,
+      "total_recovered": 20940
+    },
+    {
+      "date": "2020-05-27",
+      "total_cases": 21905,
+      "total_deaths": 658,
+      "total_recovered": 21247
+    },
+    {
+      "date": "2020-05-28",
+      "total_cases": 22382,
+      "total_deaths": 669,
+      "total_recovered": 21713
+    },
+    {
+      "date": "2020-05-29",
+      "total_cases": 22811,
+      "total_deaths": 679,
+      "total_recovered": 22132
+    },
+    {
+      "date": "2020-05-30",
+      "total_cases": 23204,
+      "total_deaths": 696,
+      "total_recovered": 22508
+    },
+    {
+      "date": "2020-05-31",
+      "total_cases": 23672,
+      "total_deaths": 708,
+      "total_recovered": 22964
+    },
+    {
+      "date": "2020-06-01",
+      "total_cases": 24562,
+      "total_deaths": 724,
+      "total_recovered": 23838
+    },
+    {
+      "date": "2020-06-02",
+      "total_cases": 24895,
+      "total_deaths": 733,
+      "total_recovered": 24162
+    },
+    {
+      "date": "2020-06-03",
+      "total_cases": 25385,
+      "total_deaths": 742,
+      "total_recovered": 24643
+    },
+    {
+      "date": "2020-06-04",
+      "total_cases": 25981,
+      "total_deaths": 755,
+      "total_recovered": 25226
+    },
+    {
+      "date": "2020-06-05",
+      "total_cases": 26542,
+      "total_deaths": 770,
+      "total_recovered": 25772
+    },
+    {
+      "date": "2020-06-06",
+      "total_cases": 27101,
+      "total_deaths": 785,
+      "total_recovered": 26316
+    },
+    {
+      "date": "2020-06-07",
+      "total_cases": 27599,
+      "total_deaths": 796,
+      "total_recovered": 26803
+    },
+    {
+      "date": "2020-06-08",
+      "total_cases": 28077,
+      "total_deaths": 805,
+      "total_recovered": 27272
+    },
+    {
+      "date": "2020-06-09",
+      "total_cases": 28479,
+      "total_deaths": 818,
+      "total_recovered": 27661
+    },
+    {
+      "date": "2020-06-10",
+      "total_cases": 29015,
+      "total_deaths": 841,
+      "total_recovered": 28174
+    },
+    {
+      "date": "2020-06-11",
+      "total_cases": 29706,
+      "total_deaths": 864,
+      "total_recovered": 28842
+    },
+    {
+      "date": "2020-06-12",
+      "total_cases": 30415,
+      "total_deaths": 880,
+      "total_recovered": 29535
+    },
+    {
+      "date": "2020-06-13",
+      "total_cases": 31177,
+      "total_deaths": 890,
+      "total_recovered": 30287
+    },
+    {
+      "date": "2020-06-14",
+      "total_cases": 31851,
+      "total_deaths": 899,
+      "total_recovered": 30952
+    },
+    {
+      "date": "2020-06-15",
+      "total_cases": 32536,
+      "total_deaths": 911,
+      "total_recovered": 31625
+    },
+    {
+      "date": "2020-06-16",
+      "total_cases": 33209,
+      "total_deaths": 922,
+      "total_recovered": 32287
+    },
+    {
+      "date": "2020-06-17",
+      "total_cases": 33986,
+      "total_deaths": 953,
+      "total_recovered": 33033
+    },
+    {
+      "date": "2020-06-18",
+      "total_cases": 34833,
+      "total_deaths": 976,
+      "total_recovered": 33857
+    },
+    {
+      "date": "2020-06-19",
+      "total_cases": 35755,
+      "total_deaths": 995,
+      "total_recovered": 34760
+    },
+    {
+      "date": "2020-06-20",
+      "total_cases": 36615,
+      "total_deaths": 1004,
+      "total_recovered": 35611
+    },
+    {
+      "date": "2020-06-21",
+      "total_cases": 37361,
+      "total_deaths": 1012,
+      "total_recovered": 36349
+    },
+    {
+      "date": "2020-06-22",
+      "total_cases": 38056,
+      "total_deaths": 1022,
+      "total_recovered": 37034
+    },
+    {
+      "date": "2020-06-23",
+      "total_cases": 38901,
+      "total_deaths": 1045,
+      "total_recovered": 37856
+    },
+    {
+      "date": "2020-06-24",
+      "total_cases": 39852,
+      "total_deaths": 1061,
+      "total_recovered": 38791
+    },
+    {
+      "date": "2020-06-25",
+      "total_cases": 40854,
+      "total_deaths": 1078,
+      "total_recovered": 39776
+    },
+    {
+      "date": "2020-06-26",
+      "total_cases": 41975,
+      "total_deaths": 1097,
+      "total_recovered": 40878
+    },
+    {
+      "date": "2020-06-27",
+      "total_cases": 42932,
+      "total_deaths": 1121,
+      "total_recovered": 41811
+    },
+    {
+      "date": "2020-06-28",
+      "total_cases": 43856,
+      "total_deaths": 1142,
+      "total_recovered": 42714
+    },
+    {
+      "date": "2020-06-29",
+      "total_cases": 44538,
+      "total_deaths": 1161,
+      "total_recovered": 43377
+    },
+    {
+      "date": "2020-06-30",
+      "total_cases": 45254,
+      "total_deaths": 1173,
+      "total_recovered": 44081
+    },
+    {
+      "date": "2020-07-01",
+      "total_cases": 45924,
+      "total_deaths": 1188,
+      "total_recovered": 44736
+    },
+    {
+      "date": "2020-07-02",
+      "total_cases": 46821,
+      "total_deaths": 1200,
+      "total_recovered": 45621
+    },
+    {
+      "date": "2020-07-03",
+      "total_cases": 47705,
+      "total_deaths": 1227,
+      "total_recovered": 46478
+    },
+    {
+      "date": "2020-07-04",
+      "total_cases": 48628,
+      "total_deaths": 1243,
+      "total_recovered": 47385
+    },
+    {
+      "date": "2020-07-05",
+      "total_cases": 49468,
+      "total_deaths": 1265,
+      "total_recovered": 48203
+    },
+    {
+      "date": "2020-07-06",
+      "total_cases": 50053,
+      "total_deaths": 1278,
+      "total_recovered": 48775
+    },
+    {
+      "date": "2020-07-07",
+      "total_cases": 50622,
+      "total_deaths": 1299,
+      "total_recovered": 49323
+    },
+    {
+      "date": "2020-07-08",
+      "total_cases": 51457,
+      "total_deaths": 1323,
+      "total_recovered": 50134
+    },
+    {
+      "date": "2020-07-09",
+      "total_cases": 52285,
+      "total_deaths": 1344,
+      "total_recovered": 50941
+    },
+    {
+      "date": "2020-07-10",
+      "total_cases": 53116,
+      "total_deaths": 1362,
+      "total_recovered": 51754
+    },
+    {
+      "date": "2020-07-11",
+      "total_cases": 53941,
+      "total_deaths": 1389,
+      "total_recovered": 52552
+    },
+    {
+      "date": "2020-07-12",
+      "total_cases": 54647,
+      "total_deaths": 1400,
+      "total_recovered": 53247
+    },
+    {
+      "date": "2020-07-13",
+      "total_cases": 55285,
+      "total_deaths": 1415,
+      "total_recovered": 53870
+    },
+    {
+      "date": "2020-07-14",
+      "total_cases": 55931,
+      "total_deaths": 1429,
+      "total_recovered": 54502
+    },
+    {
+      "date": "2020-07-15",
+      "total_cases": 56779,
+      "total_deaths": 1444,
+      "total_recovered": 55335
+    },
+    {
+      "date": "2020-07-16",
+      "total_cases": 57640,
+      "total_deaths": 1462,
+      "total_recovered": 56178
+    },
+    {
+      "date": "2020-07-17",
+      "total_cases": 58466,
+      "total_deaths": 1473,
+      "total_recovered": 56993
+    },
+    {
+      "date": "2020-07-18",
+      "total_cases": 59333,
+      "total_deaths": 1496,
+      "total_recovered": 57837
+    },
+    {
+      "date": "2020-07-19",
+      "total_cases": 60077,
+      "total_deaths": 1504,
+      "total_recovered": 58573
+    },
+    {
+      "date": "2020-07-20",
+      "total_cases": 60767,
+      "total_deaths": 1517,
+      "total_recovered": 59250
+    },
+    {
+      "date": "2020-07-21",
+      "total_cases": 61454,
+      "total_deaths": 1537,
+      "total_recovered": 59917
+    },
+    {
+      "date": "2020-07-22",
+      "total_cases": 62295,
+      "total_deaths": 1553,
+      "total_recovered": 60742
+    },
+    {
+      "date": "2020-07-23",
+      "total_cases": 63169,
+      "total_deaths": 1570,
+      "total_recovered": 61599
+    },
+    {
+      "date": "2020-07-24",
+      "total_cases": 64173,
+      "total_deaths": 1591,
+      "total_recovered": 62582
+    },
+    {
+      "date": "2020-07-25",
+      "total_cases": 65317,
+      "total_deaths": 1610,
+      "total_recovered": 63707
+    },
+    {
+      "date": "2020-07-26",
+      "total_cases": 66261,
+      "total_deaths": 1625,
+      "total_recovered": 64636
+    },
+    {
+      "date": "2020-07-27",
+      "total_cases": 67096,
+      "total_deaths": 1636,
+      "total_recovered": 65460
+    },
+    {
+      "date": "2020-07-28",
+      "total_cases": 68030,
+      "total_deaths": 1650,
+      "total_recovered": 66380
+    },
+    {
+      "date": "2020-07-29",
+      "total_cases": 69078,
+      "total_deaths": 1673,
+      "total_recovered": 67405
+    },
+    {
+      "date": "2020-07-30",
+      "total_cases": 70300,
+      "total_deaths": 1697,
+      "total_recovered": 68603
+    },
+    {
+      "date": "2020-07-31",
+      "total_cases": 71404,
+      "total_deaths": 1717,
+      "total_recovered": 69687
+    },
+    {
+      "date": "2020-08-01",
+      "total_cases": 72609,
+      "total_deaths": 1733,
+      "total_recovered": 70876
+    },
+    {
+      "date": "2020-08-02",
+      "total_cases": 73761,
+      "total_deaths": 1749,
+      "total_recovered": 72012
+    },
+    {
+      "date": "2020-08-03",
+      "total_cases": 74781,
+      "total_deaths": 1762,
+      "total_recovered": 73019
+    },
+    {
+      "date": "2020-08-04",
+      "total_cases": 75880,
+      "total_deaths": 1788,
+      "total_recovered": 74092
+    },
+    {
+      "date": "2020-08-05",
+      "total_cases": 77169,
+      "total_deaths": 1813,
+      "total_recovered": 75356
+    },
+    {
+      "date": "2020-08-06",
+      "total_cases": 78515,
+      "total_deaths": 1846,
+      "total_recovered": 76669
+    },
+    {
+      "date": "2020-08-07",
+      "total_cases": 80018,
+      "total_deaths": 1879,
+      "total_recovered": 78139
+    },
+    {
+      "date": "2020-08-08",
+      "total_cases": 81534,
+      "total_deaths": 1906,
+      "total_recovered": 79628
+    },
+    {
+      "date": "2020-08-09",
+      "total_cases": 82767,
+      "total_deaths": 1925,
+      "total_recovered": 80842
+    },
+    {
+      "date": "2020-08-10",
+      "total_cases": 83812,
+      "total_deaths": 1950,
+      "total_recovered": 81862
+    },
+    {
+      "date": "2020-08-11",
+      "total_cases": 85023,
+      "total_deaths": 1979,
+      "total_recovered": 83044
+    },
+    {
+      "date": "2020-08-12",
+      "total_cases": 86504,
+      "total_deaths": 1999,
+      "total_recovered": 84505
+    },
+    {
+      "date": "2020-08-13",
+      "total_cases": 88136,
+      "total_deaths": 2023,
+      "total_recovered": 86113
+    },
+    {
+      "date": "2020-08-14",
+      "total_cases": 89917,
+      "total_deaths": 2042,
+      "total_recovered": 87875
+    },
+    {
+      "date": "2020-08-15",
+      "total_cases": 91795,
+      "total_deaths": 2076,
+      "total_recovered": 89719
+    },
+    {
+      "date": "2020-08-16",
+      "total_cases": 93490,
+      "total_deaths": 2100,
+      "total_recovered": 91390
+    },
+    {
+      "date": "2020-08-17",
+      "total_cases": 95007,
+      "total_deaths": 2122,
+      "total_recovered": 92885
+    },
+    {
+      "date": "2020-08-18",
+      "total_cases": 96653,
+      "total_deaths": 2152,
+      "total_recovered": 94501
+    },
+    {
+      "date": "2020-08-19",
+      "total_cases": 98658,
+      "total_deaths": 2182,
+      "total_recovered": 96476
+    },
+    {
+      "date": "2020-08-20",
+      "total_cases": 100810,
+      "total_deaths": 2225,
+      "total_recovered": 98585
+    },
+    {
+      "date": "2020-08-21",
+      "total_cases": 102948,
+      "total_deaths": 2248,
+      "total_recovered": 100700
+    },
+    {
+      "date": "2020-08-22",
+      "total_cases": 105337,
+      "total_deaths": 2286,
+      "total_recovered": 103051
+    },
+    {
+      "date": "2020-08-23",
+      "total_cases": 107379,
+      "total_deaths": 2313,
+      "total_recovered": 105066
+    },
+    {
+      "date": "2020-08-24",
+      "total_cases": 109234,
+      "total_deaths": 2335,
+      "total_recovered": 106899
+    },
+    {
+      "date": "2020-08-25",
+      "total_cases": 110949,
+      "total_deaths": 2362,
+      "total_recovered": 108587
+    },
+    {
+      "date": "2020-08-26",
+      "total_cases": 112653,
+      "total_deaths": 2399,
+      "total_recovered": 110254
+    },
+    {
+      "date": "2020-08-27",
+      "total_cases": 114663,
+      "total_deaths": 2449,
+      "total_recovered": 112214
+    },
+    {
+      "date": "2020-08-28",
+      "total_cases": 117172,
+      "total_deaths": 2499,
+      "total_recovered": 114673
+    },
+    {
+      "date": "2020-08-29",
+      "total_cases": 119751,
+      "total_deaths": 2540,
+      "total_recovered": 117211
+    },
+    {
+      "date": "2020-08-30",
+      "total_cases": 121930,
+      "total_deaths": 2575,
+      "total_recovered": 119355
+    },
+    {
+      "date": "2020-08-31",
+      "total_cases": 124132,
+      "total_deaths": 2605,
+      "total_recovered": 121527
+    },
+    {
+      "date": "2020-09-01",
+      "total_cases": 126279,
+      "total_deaths": 2654,
+      "total_recovered": 123625
+    },
+    {
+      "date": "2020-09-02",
+      "total_cases": 128833,
+      "total_deaths": 2705,
+      "total_recovered": 126128
+    },
+    {
+      "date": "2020-09-03",
+      "total_cases": 131300,
+      "total_deaths": 2759,
+      "total_recovered": 128541
+    },
+    {
+      "date": "2020-09-04",
+      "total_cases": 134069,
+      "total_deaths": 2812,
+      "total_recovered": 131257
+    },
+    {
+      "date": "2020-09-05",
+      "total_cases": 136966,
+      "total_deaths": 2863,
+      "total_recovered": 134103
+    },
+    {
+      "date": "2020-09-06",
+      "total_cases": 139171,
+      "total_deaths": 2898,
+      "total_recovered": 136273
+    },
+    {
+      "date": "2020-09-07",
+      "total_cases": 141424,
+      "total_deaths": 2930,
+      "total_recovered": 138494
+    },
+    {
+      "date": "2020-09-08",
+      "total_cases": 143914,
+      "total_deaths": 2988,
+      "total_recovered": 140926
+    },
+    {
+      "date": "2020-09-09",
+      "total_cases": 146511,
+      "total_deaths": 3034,
+      "total_recovered": 143477
+    },
+    {
+      "date": "2020-09-10",
+      "total_cases": 149146,
+      "total_deaths": 3079,
+      "total_recovered": 146067
+    },
+    {
+      "date": "2020-09-11",
+      "total_cases": 152373,
+      "total_deaths": 3132,
+      "total_recovered": 149241
+    },
+    {
+      "date": "2020-09-12",
+      "total_cases": 155558,
+      "total_deaths": 3206,
+      "total_recovered": 152352
+    },
+    {
+      "date": "2020-09-13",
+      "total_cases": 158122,
+      "total_deaths": 3239,
+      "total_recovered": 154883
+    },
+    {
+      "date": "2020-09-14",
+      "total_cases": 160679,
+      "total_deaths": 3273,
+      "total_recovered": 157406
+    },
+    {
+      "date": "2020-09-15",
+      "total_cases": 163678,
+      "total_deaths": 3326,
+      "total_recovered": 160352
+    },
+    {
+      "date": "2020-09-16",
+      "total_cases": 166694,
+      "total_deaths": 3404,
+      "total_recovered": 163290
+    },
+    {
+      "date": "2020-09-17",
+      "total_cases": 170373,
+      "total_deaths": 3465,
+      "total_recovered": 166908
+    },
+    {
+      "date": "2020-09-18",
+      "total_cases": 173703,
+      "total_deaths": 3535,
+      "total_recovered": 170168
+    },
+    {
+      "date": "2020-09-19",
+      "total_cases": 177048,
+      "total_deaths": 3585,
+      "total_recovered": 173463
+    },
+    {
+      "date": "2020-09-20",
+      "total_cases": 180119,
+      "total_deaths": 3626,
+      "total_recovered": 176493
+    },
+    {
+      "date": "2020-09-21",
+      "total_cases": 182900,
+      "total_deaths": 3652,
+      "total_recovered": 179248
+    },
+    {
+      "date": "2020-09-22",
+      "total_cases": 185890,
+      "total_deaths": 3716,
+      "total_recovered": 182174
+    },
+    {
+      "date": "2020-09-23",
+      "total_cases": 189488,
+      "total_deaths": 3784,
+      "total_recovered": 185704
+    },
+    {
+      "date": "2020-09-24",
+      "total_cases": 192966,
+      "total_deaths": 3838,
+      "total_recovered": 189128
+    },
+    {
+      "date": "2020-09-25",
+      "total_cases": 196631,
+      "total_deaths": 3910,
+      "total_recovered": 192721
+    },
+    {
+      "date": "2020-09-26",
+      "total_cases": 200566,
+      "total_deaths": 3988,
+      "total_recovered": 196578
+    },
+    {
+      "date": "2020-09-27",
+      "total_cases": 203799,
+      "total_deaths": 4044,
+      "total_recovered": 199755
+    },
+    {
+      "date": "2020-09-28",
+      "total_cases": 206579,
+      "total_deaths": 4082,
+      "total_recovered": 202497
+    },
+    {
+      "date": "2020-09-29",
+      "total_cases": 210309,
+      "total_deaths": 4154,
+      "total_recovered": 206155
+    },
+    {
+      "date": "2020-09-30",
+      "total_cases": 214446,
+      "total_deaths": 4221,
+      "total_recovered": 210225
+    },
+    {
+      "date": "2020-10-01",
+      "total_cases": 218625,
+      "total_deaths": 4288,
+      "total_recovered": 214337
+    },
+    {
+      "date": "2020-10-02",
+      "total_cases": 223376,
+      "total_deaths": 4357,
+      "total_recovered": 219019
+    },
+    {
+      "date": "2020-10-03",
+      "total_cases": 228161,
+      "total_deaths": 4451,
+      "total_recovered": 223710
+    },
+    {
+      "date": "2020-10-04",
+      "total_cases": 232424,
+      "total_deaths": 4495,
+      "total_recovered": 227929
+    },
+    {
+      "date": "2020-10-05",
+      "total_cases": 236329,
+      "total_deaths": 4530,
+      "total_recovered": 231799
+    },
+    {
+      "date": "2020-10-06",
+      "total_cases": 240811,
+      "total_deaths": 4624,
+      "total_recovered": 236187
+    },
+    {
+      "date": "2020-10-07",
+      "total_cases": 245698,
+      "total_deaths": 4707,
+      "total_recovered": 240991
+    },
+    {
+      "date": "2020-10-08",
+      "total_cases": 251243,
+      "total_deaths": 4807,
+      "total_recovered": 246436
+    },
+    {
+      "date": "2020-10-09",
+      "total_cases": 257204,
+      "total_deaths": 4899,
+      "total_recovered": 252305
+    },
+    {
+      "date": "2020-10-10",
+      "total_cases": 263105,
+      "total_deaths": 5010,
+      "total_recovered": 258095
+    },
+    {
+      "date": "2020-10-11",
+      "total_cases": 268065,
+      "total_deaths": 5098,
+      "total_recovered": 262967
+    },
+    {
+      "date": "2020-10-12",
+      "total_cases": 272671,
+      "total_deaths": 5143,
+      "total_recovered": 267528
+    },
+    {
+      "date": "2020-10-13",
+      "total_cases": 277982,
+      "total_deaths": 5254,
+      "total_recovered": 272728
+    },
+    {
+      "date": "2020-10-14",
+      "total_cases": 283762,
+      "total_deaths": 5365,
+      "total_recovered": 278397
+    },
+    {
+      "date": "2020-10-15",
+      "total_cases": 289022,
+      "total_deaths": 5443,
+      "total_recovered": 283579
+    },
+    {
+      "date": "2020-10-16",
+      "total_cases": 295227,
+      "total_deaths": 5551,
+      "total_recovered": 289676
+    },
+    {
+      "date": "2020-10-17",
+      "total_cases": 301856,
+      "total_deaths": 5669,
+      "total_recovered": 296187
+    },
+    {
+      "date": "2020-10-18",
+      "total_cases": 307301,
+      "total_deaths": 5762,
+      "total_recovered": 301539
+    },
+    {
+      "date": "2020-10-19",
+      "total_cases": 312287,
+      "total_deaths": 5834,
+      "total_recovered": 306453
+    },
+    {
+      "date": "2020-10-20",
+      "total_cases": 317967,
+      "total_deaths": 5948,
+      "total_recovered": 312019
+    },
+    {
+      "date": "2020-10-21",
+      "total_cases": 324942,
+      "total_deaths": 6093,
+      "total_recovered": 318849
+    },
+    {
+      "date": "2020-10-22",
+      "total_cases": 332262,
+      "total_deaths": 6213,
+      "total_recovered": 326049
+    },
+    {
+      "date": "2020-10-23",
+      "total_cases": 340042,
+      "total_deaths": 6336,
+      "total_recovered": 333706
+    },
+    {
+      "date": "2020-10-24",
+      "total_cases": 347317,
+      "total_deaths": 6463,
+      "total_recovered": 340854
+    },
+    {
+      "date": "2020-10-25",
+      "total_cases": 353723,
+      "total_deaths": 6566,
+      "total_recovered": 347157
+    },
+    {
+      "date": "2020-10-26",
+      "total_cases": 359348,
+      "total_deaths": 6641,
+      "total_recovered": 352707
+    },
+    {
+      "date": "2020-10-27",
+      "total_cases": 366233,
+      "total_deaths": 6770,
+      "total_recovered": 359463
+    },
+    {
+      "date": "2020-10-28",
+      "total_cases": 374023,
+      "total_deaths": 6938,
+      "total_recovered": 367085
+    },
+    {
+      "date": "2020-10-29",
+      "total_cases": 381664,
+      "total_deaths": 7058,
+      "total_recovered": 374606
+    },
+    {
+      "date": "2020-10-30",
+      "total_cases": 390272,
+      "total_deaths": 7235,
+      "total_recovered": 383037
+    },
+    {
+      "date": "2020-10-31",
+      "total_cases": 399330,
+      "total_deaths": 7399,
+      "total_recovered": 391931
+    },
+    {
+      "date": "2020-11-01",
+      "total_cases": 407573,
+      "total_deaths": 7515,
+      "total_recovered": 400058
+    },
+    {
+      "date": "2020-11-02",
+      "total_cases": 414567,
+      "total_deaths": 7584,
+      "total_recovered": 406983
+    },
+    {
+      "date": "2020-11-03",
+      "total_cases": 423683,
+      "total_deaths": 7749,
+      "total_recovered": 415934
+    },
+    {
+      "date": "2020-11-04",
+      "total_cases": 433492,
+      "total_deaths": 7952,
+      "total_recovered": 425540
+    },
+    {
+      "date": "2020-11-05",
+      "total_cases": 443630,
+      "total_deaths": 8148,
+      "total_recovered": 435482
+    },
+    {
+      "date": "2020-11-06",
+      "total_cases": 453565,
+      "total_deaths": 8358,
+      "total_recovered": 445207
+    },
+    {
+      "date": "2020-11-07",
+      "total_cases": 464598,
+      "total_deaths": 8553,
+      "total_recovered": 456045
+    },
+    {
+      "date": "2020-11-08",
+      "total_cases": 474245,
+      "total_deaths": 8695,
+      "total_recovered": 465550
+    },
+    {
+      "date": "2020-11-09",
+      "total_cases": 483153,
+      "total_deaths": 8812,
+      "total_recovered": 474341
+    },
+    {
+      "date": "2020-11-10",
+      "total_cases": 493544,
+      "total_deaths": 9018,
+      "total_recovered": 484526
+    },
+    {
+      "date": "2020-11-11",
+      "total_cases": 504423,
+      "total_deaths": 9214,
+      "total_recovered": 495209
+    },
+    {
+      "date": "2020-11-12",
+      "total_cases": 515755,
+      "total_deaths": 9422,
+      "total_recovered": 506333
+    },
+    {
+      "date": "2020-11-13",
+      "total_cases": 527808,
+      "total_deaths": 9604,
+      "total_recovered": 518204
+    },
+    {
+      "date": "2020-11-14",
+      "total_cases": 540593,
+      "total_deaths": 9806,
+      "total_recovered": 530787
+    },
+    {
+      "date": "2020-11-15",
+      "total_cases": 551533,
+      "total_deaths": 9904,
+      "total_recovered": 541629
+    },
+    {
+      "date": "2020-11-16",
+      "total_cases": 561581,
+      "total_deaths": 10002,
+      "total_recovered": 551579
+    },
+    {
+      "date": "2020-11-17",
+      "total_cases": 573758,
+      "total_deaths": 10168,
+      "total_recovered": 563590
+    },
+    {
+      "date": "2020-11-18",
+      "total_cases": 586522,
+      "total_deaths": 10431,
+      "total_recovered": 576091
+    },
+    {
+      "date": "2020-11-19",
+      "total_cases": 600152,
+      "total_deaths": 10694,
+      "total_recovered": 589458
+    },
+    {
+      "date": "2020-11-20",
+      "total_cases": 614986,
+      "total_deaths": 10929,
+      "total_recovered": 604057
+    },
+    {
+      "date": "2020-11-21",
+      "total_cases": 629850,
+      "total_deaths": 11149,
+      "total_recovered": 618701
+    },
+    {
+      "date": "2020-11-22",
+      "total_cases": 642215,
+      "total_deaths": 11292,
+      "total_recovered": 630923
+    },
+    {
+      "date": "2020-11-23",
+      "total_cases": 653442,
+      "total_deaths": 11423,
+      "total_recovered": 642019
+    },
+    {
+      "date": "2020-11-24",
+      "total_cases": 665968,
+      "total_deaths": 11619,
+      "total_recovered": 654349
+    },
+    {
+      "date": "2020-11-25",
+      "total_cases": 680132,
+      "total_deaths": 11857,
+      "total_recovered": 668275
+    },
+    {
+      "date": "2020-11-26",
+      "total_cases": 695755,
+      "total_deaths": 12091,
+      "total_recovered": 683664
+    },
+    {
+      "date": "2020-11-27",
+      "total_cases": 712249,
+      "total_deaths": 12292,
+      "total_recovered": 699957
+    },
+    {
+      "date": "2020-11-28",
+      "total_cases": 728834,
+      "total_deaths": 12485,
+      "total_recovered": 716349
+    },
+    {
+      "date": "2020-11-29",
+      "total_cases": 742105,
+      "total_deaths": 12613,
+      "total_recovered": 729492
+    },
+    {
+      "date": "2020-11-30",
+      "total_cases": 752343,
+      "total_deaths": 12731,
+      "total_recovered": 739612
+    },
+    {
+      "date": "2020-12-01",
+      "total_cases": 765117,
+      "total_deaths": 12962,
+      "total_recovered": 752155
+    },
+    {
+      "date": "2020-12-02",
+      "total_cases": 778560,
+      "total_deaths": 13140,
+      "total_recovered": 765420
+    },
+    {
+      "date": "2020-12-03",
+      "total_cases": 793372,
+      "total_deaths": 13394,
+      "total_recovered": 779978
+    },
+    {
+      "date": "2020-12-04",
+      "total_cases": 808828,
+      "total_deaths": 13641,
+      "total_recovered": 795187
+    },
+    {
+      "date": "2020-12-05",
+      "total_cases": 822985,
+      "total_deaths": 13877,
+      "total_recovered": 809108
+    },
+    {
+      "date": "2020-12-06",
+      "total_cases": 834913,
+      "total_deaths": 14054,
+      "total_recovered": 820859
+    },
+    {
+      "date": "2020-12-07",
+      "total_cases": 843898,
+      "total_deaths": 14208,
+      "total_recovered": 829690
+    },
+    {
+      "date": "2020-12-08",
+      "total_cases": 855054,
+      "total_deaths": 14413,
+      "total_recovered": 840641
+    },
+    {
+      "date": "2020-12-09",
+      "total_cases": 867991,
+      "total_deaths": 14702,
+      "total_recovered": 853289
+    },
+    {
+      "date": "2020-12-10",
+      "total_cases": 881727,
+      "total_deaths": 14981,
+      "total_recovered": 866746
+    },
+    {
+      "date": "2020-12-11",
+      "total_cases": 895620,
+      "total_deaths": 15278,
+      "total_recovered": 880342
+    },
+    {
+      "date": "2020-12-12",
+      "total_cases": 908839,
+      "total_deaths": 15528,
+      "total_recovered": 893311
+    },
+    {
+      "date": "2020-12-13",
+      "total_cases": 918444,
+      "total_deaths": 15691,
+      "total_recovered": 902753
+    },
+    {
+      "date": "2020-12-14",
+      "total_cases": 925321,
+      "total_deaths": 15792,
+      "total_recovered": 909529
+    },
+    {
+      "date": "2020-12-15",
+      "total_cases": 934161,
+      "total_deaths": 16038,
+      "total_recovered": 918123
+    },
+    {
+      "date": "2020-12-16",
+      "total_cases": 945218,
+      "total_deaths": 16314,
+      "total_recovered": 928904
+    },
+    {
+      "date": "2020-12-17",
+      "total_cases": 957692,
+      "total_deaths": 16579,
+      "total_recovered": 941113
+    },
+    {
+      "date": "2020-12-18",
+      "total_cases": 970758,
+      "total_deaths": 16848,
+      "total_recovered": 953910
+    },
+    {
+      "date": "2020-12-19",
+      "total_cases": 982937,
+      "total_deaths": 17072,
+      "total_recovered": 965865
+    },
+    {
+      "date": "2020-12-20",
+      "total_cases": 991700,
+      "total_deaths": 17201,
+      "total_recovered": 974499
+    },
+    {
+      "date": "2020-12-21",
+      "total_cases": 998678,
+      "total_deaths": 17293,
+      "total_recovered": 981385
+    },
+    {
+      "date": "2020-12-22",
+      "total_cases": 1007627,
+      "total_deaths": 17535,
+      "total_recovered": 990092
+    },
+    {
+      "date": "2020-12-23",
+      "total_cases": 1018199,
+      "total_deaths": 17823,
+      "total_recovered": 1000376
+    },
+    {
+      "date": "2020-12-24",
+      "total_cases": 1030125,
+      "total_deaths": 18057,
+      "total_recovered": 1012068
+    },
+    {
+      "date": "2020-12-25",
+      "total_cases": 1041583,
+      "total_deaths": 18255,
+      "total_recovered": 1023328
+    },
+    {
+      "date": "2020-12-26",
+      "total_cases": 1049717,
+      "total_deaths": 18389,
+      "total_recovered": 1031328
+    },
+    {
+      "date": "2020-12-27",
+      "total_cases": 1056265,
+      "total_deaths": 18472,
+      "total_recovered": 1037793
+    },
+    {
+      "date": "2020-12-28",
+      "total_cases": 1061074,
+      "total_deaths": 18555,
+      "total_recovered": 1042519
+    },
+    {
+      "date": "2020-12-29",
+      "total_cases": 1068476,
+      "total_deaths": 18801,
+      "total_recovered": 1049675
+    },
+    {
+      "date": "2020-12-30",
+      "total_cases": 1076880,
+      "total_deaths": 19058,
+      "total_recovered": 1057822
+    },
+    {
+      "date": "2020-12-31",
+      "total_cases": 1086997,
+      "total_deaths": 19281,
+      "total_recovered": 1067716
+    },
+    {
+      "date": "2021-01-01",
+      "total_cases": 1096855,
+      "total_deaths": 19437,
+      "total_recovered": 1077418
+    },
+    {
+      "date": "2021-01-02",
+      "total_cases": 1102256,
+      "total_deaths": 19498,
+      "total_recovered": 1082758
+    },
+    {
+      "date": "2021-01-03",
+      "total_cases": 1107137,
+      "total_deaths": 19630,
+      "total_recovered": 1087507
+    },
+    {
+      "date": "2021-01-04",
+      "total_cases": 1111631,
+      "total_deaths": 19712,
+      "total_recovered": 1091919
+    },
+    {
+      "date": "2021-01-05",
+      "total_cases": 1117256,
+      "total_deaths": 19929,
+      "total_recovered": 1097327
+    },
+    {
+      "date": "2021-01-06",
+      "total_cases": 1124482,
+      "total_deaths": 20171,
+      "total_recovered": 1104311
+    },
+    {
+      "date": "2021-01-07",
+      "total_cases": 1133802,
+      "total_deaths": 20334,
+      "total_recovered": 1113468
+    },
+    {
+      "date": "2021-01-08",
+      "total_cases": 1139800,
+      "total_deaths": 20432,
+      "total_recovered": 1119368
+    },
+    {
+      "date": "2021-01-09",
+      "total_cases": 1144943,
+      "total_deaths": 20526,
+      "total_recovered": 1124417
+    },
+    {
+      "date": "2021-01-10",
+      "total_cases": 1150265,
+      "total_deaths": 20641,
+      "total_recovered": 1129624
+    },
+    {
+      "date": "2021-01-11",
+      "total_cases": 1154850,
+      "total_deaths": 20719,
+      "total_recovered": 1134131
+    },
+    {
+      "date": "2021-01-12",
+      "total_cases": 1160243,
+      "total_deaths": 20915,
+      "total_recovered": 1139328
+    },
+    {
+      "date": "2021-01-13",
+      "total_cases": 1166958,
+      "total_deaths": 21121,
+      "total_recovered": 1145837
+    },
+    {
+      "date": "2021-01-14",
+      "total_cases": 1175343,
+      "total_deaths": 21300,
+      "total_recovered": 1154043
+    },
+    {
+      "date": "2021-01-15",
+      "total_cases": 1183963,
+      "total_deaths": 21479,
+      "total_recovered": 1162484
+    },
+    {
+      "date": "2021-01-16",
+      "total_cases": 1192114,
+      "total_deaths": 21637,
+      "total_recovered": 1170477
+    },
+    {
+      "date": "2021-01-17",
+      "total_cases": 1198512,
+      "total_deaths": 21767,
+      "total_recovered": 1176745
+    },
+    {
+      "date": "2021-01-18",
+      "total_cases": 1201894,
+      "total_deaths": 21847,
+      "total_recovered": 1180047
+    },
+    {
+      "date": "2021-01-19",
+      "total_cases": 1206125,
+      "total_deaths": 22037,
+      "total_recovered": 1184088
+    },
+    {
+      "date": "2021-01-20",
+      "total_cases": 1210854,
+      "total_deaths": 22264,
+      "total_recovered": 1188590
+    },
+    {
+      "date": "2021-01-21",
+      "total_cases": 1216780,
+      "total_deaths": 22521,
+      "total_recovered": 1194259
+    },
+    {
+      "date": "2021-01-22",
+      "total_cases": 1222459,
+      "total_deaths": 22698,
+      "total_recovered": 1199761
+    },
+    {
+      "date": "2021-01-23",
+      "total_cases": 1227723,
+      "total_deaths": 22830,
+      "total_recovered": 1204893
+    },
+    {
+      "date": "2021-01-24",
+      "total_cases": 1231965,
+      "total_deaths": 22926,
+      "total_recovered": 1209039
+    },
+    {
+      "date": "2021-01-25",
+      "total_cases": 1234772,
+      "total_deaths": 23001,
+      "total_recovered": 1211771
+    },
+    {
+      "date": "2021-01-26",
+      "total_cases": 1237810,
+      "total_deaths": 23148,
+      "total_recovered": 1214662
+    },
+    {
+      "date": "2021-01-27",
+      "total_cases": 1241863,
+      "total_deaths": 23307,
+      "total_recovered": 1218556
+    },
+    {
+      "date": "2021-01-28",
+      "total_cases": 1247674,
+      "total_deaths": 23469,
+      "total_recovered": 1224205
+    },
+    {
+      "date": "2021-01-29",
+      "total_cases": 1253127,
+      "total_deaths": 23610,
+      "total_recovered": 1229517
+    },
+    {
+      "date": "2021-01-30",
+      "total_cases": 1258093,
+      "total_deaths": 23769,
+      "total_recovered": 1234324
+    },
+    {
+      "date": "2021-01-31",
+      "total_cases": 1261546,
+      "total_deaths": 23860,
+      "total_recovered": 1237686
+    },
+    {
+      "date": "2021-02-01",
+      "total_cases": 1263833,
+      "total_deaths": 23931,
+      "total_recovered": 1239902
+    },
+    {
+      "date": "2021-02-02",
+      "total_cases": 1266464,
+      "total_deaths": 24100,
+      "total_recovered": 1242364
+    },
+    {
+      "date": "2021-02-03",
+      "total_cases": 1270001,
+      "total_deaths": 24276,
+      "total_recovered": 1245725
+    },
+    {
+      "date": "2021-02-04",
+      "total_cases": 1275334,
+      "total_deaths": 24429,
+      "total_recovered": 1250905
+    },
+    {
+      "date": "2021-02-05",
+      "total_cases": 1280501,
+      "total_deaths": 24599,
+      "total_recovered": 1255902
+    },
+    {
+      "date": "2021-02-06",
+      "total_cases": 1285059,
+      "total_deaths": 24735,
+      "total_recovered": 1260324
+    },
+    {
+      "date": "2021-02-07",
+      "total_cases": 1288669,
+      "total_deaths": 24828,
+      "total_recovered": 1263841
+    },
+    {
+      "date": "2021-02-08",
+      "total_cases": 1291025,
+      "total_deaths": 24884,
+      "total_recovered": 1266141
+    },
+    {
+      "date": "2021-02-09",
+      "total_cases": 1293892,
+      "total_deaths": 25022,
+      "total_recovered": 1268870
+    },
+    {
+      "date": "2021-02-10",
+      "total_cases": 1297537,
+      "total_deaths": 25195,
+      "total_recovered": 1272342
+    },
+    {
+      "date": "2021-02-11",
+      "total_cases": 1302811,
+      "total_deaths": 25330,
+      "total_recovered": 1277481
+    },
+    {
+      "date": "2021-02-12",
+      "total_cases": 1307806,
+      "total_deaths": 25457,
+      "total_recovered": 1282349
+    },
+    {
+      "date": "2021-02-13",
+      "total_cases": 1313209,
+      "total_deaths": 25578,
+      "total_recovered": 1287631
+    },
+    {
+      "date": "2021-02-14",
+      "total_cases": 1316520,
+      "total_deaths": 25631,
+      "total_recovered": 1290889
+    },
+    {
+      "date": "2021-02-15",
+      "total_cases": 1319060,
+      "total_deaths": 25702,
+      "total_recovered": 1293358
+    },
+    {
+      "date": "2021-02-16",
+      "total_cases": 1322406,
+      "total_deaths": 25862,
+      "total_recovered": 1296544
+    },
+    {
+      "date": "2021-02-17",
+      "total_cases": 1326891,
+      "total_deaths": 26017,
+      "total_recovered": 1300874
+    },
+    {
+      "date": "2021-02-18",
+      "total_cases": 1333332,
+      "total_deaths": 26191,
+      "total_recovered": 1307141
+    },
+    {
+      "date": "2021-02-19",
+      "total_cases": 1340054,
+      "total_deaths": 26320,
+      "total_recovered": 1313734
+    },
+    {
+      "date": "2021-02-20",
+      "total_cases": 1346527,
+      "total_deaths": 26404,
+      "total_recovered": 1320123
+    },
+    {
+      "date": "2021-02-21",
+      "total_cases": 1351190,
+      "total_deaths": 26470,
+      "total_recovered": 1324720
+    },
+    {
+      "date": "2021-02-22",
+      "total_cases": 1354545,
+      "total_deaths": 26531,
+      "total_recovered": 1328014
+    },
+    {
+      "date": "2021-02-23",
+      "total_cases": 1358871,
+      "total_deaths": 26690,
+      "total_recovered": 1332181
+    },
+    {
+      "date": "2021-02-24",
+      "total_cases": 1364861,
+      "total_deaths": 26847,
+      "total_recovered": 1338014
+    },
+    {
+      "date": "2021-02-25",
+      "total_cases": 1373139,
+      "total_deaths": 26991,
+      "total_recovered": 1346148
+    },
+    {
+      "date": "2021-02-26",
+      "total_cases": 1381273,
+      "total_deaths": 27146,
+      "total_recovered": 1354127
+    },
+    {
+      "date": "2021-02-27",
+      "total_cases": 1389570,
+      "total_deaths": 27306,
+      "total_recovered": 1362264
+    },
+    {
+      "date": "2021-02-28",
+      "total_cases": 1395528,
+      "total_deaths": 27404,
+      "total_recovered": 1368124
+    },
+    {
+      "date": "2021-03-01",
+      "total_cases": 1399934,
+      "total_deaths": 27480,
+      "total_recovered": 1372454
+    },
+    {
+      "date": "2021-03-02",
+      "total_cases": 1405394,
+      "total_deaths": 27650,
+      "total_recovered": 1377744
+    },
+    {
+      "date": "2021-03-03",
+      "total_cases": 1412748,
+      "total_deaths": 27844,
+      "total_recovered": 1384904
+    },
+    {
+      "date": "2021-03-04",
+      "total_cases": 1422927,
+      "total_deaths": 28046,
+      "total_recovered": 1394881
+    },
+    {
+      "date": "2021-03-05",
+      "total_cases": 1433200,
+      "total_deaths": 28227,
+      "total_recovered": 1404973
+    },
+    {
+      "date": "2021-03-06",
+      "total_cases": 1442457,
+      "total_deaths": 28392,
+      "total_recovered": 1414065
+    },
+    {
+      "date": "2021-03-07",
+      "total_cases": 1449741,
+      "total_deaths": 28502,
+      "total_recovered": 1421239
+    },
+    {
+      "date": "2021-03-08",
+      "total_cases": 1455421,
+      "total_deaths": 28616,
+      "total_recovered": 1426805
+    },
+    {
+      "date": "2021-03-09",
+      "total_cases": 1458785,
+      "total_deaths": 28698,
+      "total_recovered": 1430087
+    },
+    {
+      "date": "2021-03-10",
+      "total_cases": 1465265,
+      "total_deaths": 28925,
+      "total_recovered": 1436340
+    },
+    {
+      "date": "2021-03-11",
+      "total_cases": 1474452,
+      "total_deaths": 29195,
+      "total_recovered": 1445257
+    },
+    {
+      "date": "2021-03-12",
+      "total_cases": 1487497,
+      "total_deaths": 29434,
+      "total_recovered": 1458063
+    },
+    {
+      "date": "2021-03-13",
+      "total_cases": 1500873,
+      "total_deaths": 29684,
+      "total_recovered": 1471189
+    },
+    {
+      "date": "2021-03-14",
+      "total_cases": 1509983,
+      "total_deaths": 29835,
+      "total_recovered": 1480148
+    },
+    {
+      "date": "2021-03-15",
+      "total_cases": 1516865,
+      "total_deaths": 29969,
+      "total_recovered": 1486896
+    },
+    {
+      "date": "2021-03-16",
+      "total_cases": 1526595,
+      "total_deaths": 30239,
+      "total_recovered": 1496356
+    },
+    {
+      "date": "2021-03-17",
+      "total_cases": 1538516,
+      "total_deaths": 30535,
+      "total_recovered": 1507981
+    },
+    {
+      "date": "2021-03-18",
+      "total_cases": 1553659,
+      "total_deaths": 30811,
+      "total_recovered": 1522848
+    },
+    {
+      "date": "2021-03-19",
+      "total_cases": 1569596,
+      "total_deaths": 31078,
+      "total_recovered": 1538518
+    },
+    {
+      "date": "2021-03-20",
+      "total_cases": 1584972,
+      "total_deaths": 31344,
+      "total_recovered": 1553628
+    },
+    {
+      "date": "2021-03-21",
+      "total_cases": 1596201,
+      "total_deaths": 31514,
+      "total_recovered": 1564687
+    },
+    {
+      "date": "2021-03-22",
+      "total_cases": 1604183,
+      "total_deaths": 31677,
+      "total_recovered": 1572506
+    },
+    {
+      "date": "2021-03-23",
+      "total_cases": 1615747,
+      "total_deaths": 32018,
+      "total_recovered": 1583729
+    },
+    {
+      "date": "2021-03-24",
+      "total_cases": 1630013,
+      "total_deaths": 32368,
+      "total_recovered": 1597645
+    },
+    {
+      "date": "2021-03-25",
+      "total_cases": 1646775,
+      "total_deaths": 32737,
+      "total_recovered": 1614038
+    },
+    {
+      "date": "2021-03-26",
+      "total_cases": 1665001,
+      "total_deaths": 33068,
+      "total_recovered": 1631933
+    },
+    {
+      "date": "2021-03-27",
+      "total_cases": 1682527,
+      "total_deaths": 33363,
+      "total_recovered": 1649164
+    },
+    {
+      "date": "2021-03-28",
+      "total_cases": 1694568,
+      "total_deaths": 33571,
+      "total_recovered": 1660997
+    },
+    {
+      "date": "2021-03-29",
+      "total_cases": 1703036,
+      "total_deaths": 33752,
+      "total_recovered": 1669284
+    },
+    {
+      "date": "2021-03-30",
+      "total_cases": 1713684,
+      "total_deaths": 34043,
+      "total_recovered": 1679641
+    },
+    {
+      "date": "2021-03-31",
+      "total_cases": 1725029,
+      "total_deaths": 34456,
+      "total_recovered": 1690573
+    },
+    {
+      "date": "2021-04-01",
+      "total_cases": 1742710,
+      "total_deaths": 34885,
+      "total_recovered": 1707825
+    },
+    {
+      "date": "2021-04-02",
+      "total_cases": 1762713,
+      "total_deaths": 35326,
+      "total_recovered": 1727387
+    },
+    {
+      "date": "2021-04-03",
+      "total_cases": 1783169,
+      "total_deaths": 35729,
+      "total_recovered": 1747440
+    },
+    {
+      "date": "2021-04-04",
+      "total_cases": 1797027,
+      "total_deaths": 35994,
+      "total_recovered": 1761033
+    },
+    {
+      "date": "2021-04-05",
+      "total_cases": 1807327,
+      "total_deaths": 36255,
+      "total_recovered": 1771072
+    },
+    {
+      "date": "2021-04-06",
+      "total_cases": 1820725,
+      "total_deaths": 36692,
+      "total_recovered": 1784033
+    },
+    {
+      "date": "2021-04-07",
+      "total_cases": 1836260,
+      "total_deaths": 37178,
+      "total_recovered": 1799082
+    },
+    {
+      "date": "2021-04-08",
+      "total_cases": 1855806,
+      "total_deaths": 37649,
+      "total_recovered": 1818157
+    },
+    {
+      "date": "2021-04-09",
+      "total_cases": 1875605,
+      "total_deaths": 38074,
+      "total_recovered": 1837531
+    },
+    {
+      "date": "2021-04-10",
+      "total_cases": 1893192,
+      "total_deaths": 38479,
+      "total_recovered": 1854713
+    },
+    {
+      "date": "2021-04-11",
+      "total_cases": 1905430,
+      "total_deaths": 38718,
+      "total_recovered": 1866712
+    },
+    {
+      "date": "2021-04-12",
+      "total_cases": 1913415,
+      "total_deaths": 39012,
+      "total_recovered": 1874403
+    },
+    {
+      "date": "2021-04-13",
+      "total_cases": 1925224,
+      "total_deaths": 39477,
+      "total_recovered": 1885747
+    },
+    {
+      "date": "2021-04-14",
+      "total_cases": 1939901,
+      "total_deaths": 39950,
+      "total_recovered": 1899951
+    },
+    {
+      "date": "2021-04-15",
+      "total_cases": 1956454,
+      "total_deaths": 40389,
+      "total_recovered": 1916065
+    },
+    {
+      "date": "2021-04-16",
+      "total_cases": 1974056,
+      "total_deaths": 40832,
+      "total_recovered": 1933224
+    },
+    {
+      "date": "2021-04-17",
+      "total_cases": 1989160,
+      "total_deaths": 41278,
+      "total_recovered": 1947882
+    },
+    {
+      "date": "2021-04-18",
+      "total_cases": 1999567,
+      "total_deaths": 41534,
+      "total_recovered": 1958033
+    },
+    {
+      "date": "2021-04-19",
+      "total_cases": 2006197,
+      "total_deaths": 41755,
+      "total_recovered": 1964442
+    },
+    {
+      "date": "2021-04-20",
+      "total_cases": 2015257,
+      "total_deaths": 42129,
+      "total_recovered": 1973128
+    },
+    {
+      "date": "2021-04-21",
+      "total_cases": 2027544,
+      "total_deaths": 42565,
+      "total_recovered": 1984979
+    },
+    {
+      "date": "2021-04-22",
+      "total_cases": 2043901,
+      "total_deaths": 43041,
+      "total_recovered": 2000860
+    },
+    {
+      "date": "2021-04-23",
+      "total_cases": 2058301,
+      "total_deaths": 43483,
+      "total_recovered": 2014818
+    },
+    {
+      "date": "2021-04-24",
+      "total_cases": 2071142,
+      "total_deaths": 43884,
+      "total_recovered": 2027258
+    },
+    {
+      "date": "2021-04-25",
+      "total_cases": 2079200,
+      "total_deaths": 44121,
+      "total_recovered": 2035079
+    },
+    {
+      "date": "2021-04-26",
+      "total_cases": 2084384,
+      "total_deaths": 44323,
+      "total_recovered": 2040061
+    },
+    {
+      "date": "2021-04-27",
+      "total_cases": 2092421,
+      "total_deaths": 44763,
+      "total_recovered": 2047658
+    },
+    {
+      "date": "2021-04-28",
+      "total_cases": 2102130,
+      "total_deaths": 45211,
+      "total_recovered": 2056919
+    },
+    {
+      "date": "2021-04-29",
+      "total_cases": 2113880,
+      "total_deaths": 45607,
+      "total_recovered": 2068273
+    },
+    {
+      "date": "2021-04-30",
+      "total_cases": 2124070,
+      "total_deaths": 45923,
+      "total_recovered": 2078147
+    },
+    {
+      "date": "2021-05-01",
+      "total_cases": 2132742,
+      "total_deaths": 46281,
+      "total_recovered": 2086461
+    },
+    {
+      "date": "2021-05-02",
+      "total_cases": 2137959,
+      "total_deaths": 46447,
+      "total_recovered": 2091512
+    },
+    {
+      "date": "2021-05-03",
+      "total_cases": 2140838,
+      "total_deaths": 46607,
+      "total_recovered": 2094231
+    },
+    {
+      "date": "2021-05-04",
+      "total_cases": 2143427,
+      "total_deaths": 46781,
+      "total_recovered": 2096646
+    },
+    {
+      "date": "2021-05-05",
+      "total_cases": 2146121,
+      "total_deaths": 46950,
+      "total_recovered": 2099171
+    },
+    {
+      "date": "2021-05-06",
+      "total_cases": 2152280,
+      "total_deaths": 47331,
+      "total_recovered": 2104949
+    },
+    {
+      "date": "2021-05-07",
+      "total_cases": 2160809,
+      "total_deaths": 47717,
+      "total_recovered": 2113092
+    },
+    {
+      "date": "2021-05-08",
+      "total_cases": 2169650,
+      "total_deaths": 48095,
+      "total_recovered": 2121555
+    },
+    {
+      "date": "2021-05-09",
+      "total_cases": 2175151,
+      "total_deaths": 48294,
+      "total_recovered": 2126857
+    },
+    {
+      "date": "2021-05-10",
+      "total_cases": 2178095,
+      "total_deaths": 48419,
+      "total_recovered": 2129676
+    },
+    {
+      "date": "2021-05-11",
+      "total_cases": 2180429,
+      "total_deaths": 48544,
+      "total_recovered": 2131885
+    },
+    {
+      "date": "2021-05-12",
+      "total_cases": 2185088,
+      "total_deaths": 48908,
+      "total_recovered": 2136180
+    },
+    {
+      "date": "2021-05-13",
+      "total_cases": 2192022,
+      "total_deaths": 49261,
+      "total_recovered": 2142761
+    },
+    {
+      "date": "2021-05-14",
+      "total_cases": 2199708,
+      "total_deaths": 49554,
+      "total_recovered": 2150154
+    },
+    {
+      "date": "2021-05-15",
+      "total_cases": 2206627,
+      "total_deaths": 49881,
+      "total_recovered": 2156746
+    },
+    {
+      "date": "2021-05-16",
+      "total_cases": 2210375,
+      "total_deaths": 50019,
+      "total_recovered": 2160356
+    },
+    {
+      "date": "2021-05-17",
+      "total_cases": 2212635,
+      "total_deaths": 50132,
+      "total_recovered": 2162503
+    },
+    {
+      "date": "2021-05-18",
+      "total_cases": 2216856,
+      "total_deaths": 50425,
+      "total_recovered": 2166431
+    },
+    {
+      "date": "2021-05-19",
+      "total_cases": 2222115,
+      "total_deaths": 50658,
+      "total_recovered": 2171457
+    },
+    {
+      "date": "2021-05-20",
+      "total_cases": 2227400,
+      "total_deaths": 50867,
+      "total_recovered": 2176533
+    },
+    {
+      "date": "2021-05-21",
+      "total_cases": 2232510,
+      "total_deaths": 51076,
+      "total_recovered": 2181434
+    },
+    {
+      "date": "2021-05-22",
+      "total_cases": 2237240,
+      "total_deaths": 51260,
+      "total_recovered": 2185980
+    },
+    {
+      "date": "2021-05-23",
+      "total_cases": 2239897,
+      "total_deaths": 51353,
+      "total_recovered": 2188544
+    },
+    {
+      "date": "2021-05-24",
+      "total_cases": 2241354,
+      "total_deaths": 51425,
+      "total_recovered": 2189929
+    },
+    {
+      "date": "2021-05-25",
+      "total_cases": 2244084,
+      "total_deaths": 51682,
+      "total_recovered": 2192402
+    },
+    {
+      "date": "2021-05-26",
+      "total_cases": 2247605,
+      "total_deaths": 51898,
+      "total_recovered": 2195707
+    },
+    {
+      "date": "2021-05-27",
+      "total_cases": 2251242,
+      "total_deaths": 52088,
+      "total_recovered": 2199154
+    },
+    {
+      "date": "2021-05-28",
+      "total_cases": 2254674,
+      "total_deaths": 52252,
+      "total_recovered": 2202422
+    },
+    {
+      "date": "2021-05-29",
+      "total_cases": 2257904,
+      "total_deaths": 52414,
+      "total_recovered": 2205490
+    },
+    {
+      "date": "2021-05-30",
+      "total_cases": 2259743,
+      "total_deaths": 52504,
+      "total_recovered": 2207239
+    },
+    {
+      "date": "2021-05-31",
+      "total_cases": 2260899,
+      "total_deaths": 52573,
+      "total_recovered": 2208326
+    },
+    {
+      "date": "2021-06-01",
+      "total_cases": 2263167,
+      "total_deaths": 52742,
+      "total_recovered": 2210425
+    },
+    {
+      "date": "2021-06-02",
+      "total_cases": 2265502,
+      "total_deaths": 52907,
+      "total_recovered": 2212595
+    },
+    {
+      "date": "2021-06-03",
+      "total_cases": 2268209,
+      "total_deaths": 53015,
+      "total_recovered": 2215194
+    },
+    {
+      "date": "2021-06-04",
+      "total_cases": 2270602,
+      "total_deaths": 53117,
+      "total_recovered": 2217485
+    },
+    {
+      "date": "2021-06-05",
+      "total_cases": 2272633,
+      "total_deaths": 53211,
+      "total_recovered": 2219422
+    },
+    {
+      "date": "2021-06-06",
+      "total_cases": 2273708,
+      "total_deaths": 53258,
+      "total_recovered": 2220450
+    },
+    {
+      "date": "2021-06-07",
+      "total_cases": 2274375,
+      "total_deaths": 53295,
+      "total_recovered": 2221080
+    },
+    {
+      "date": "2021-06-08",
+      "total_cases": 2276111,
+      "total_deaths": 53420,
+      "total_recovered": 2222691
+    },
+    {
+      "date": "2021-06-09",
+      "total_cases": 2277632,
+      "total_deaths": 53503,
+      "total_recovered": 2224129
+    },
+    {
+      "date": "2021-06-10",
+      "total_cases": 2279556,
+      "total_deaths": 53607,
+      "total_recovered": 2225949
+    },
+    {
+      "date": "2021-06-11",
+      "total_cases": 2281303,
+      "total_deaths": 53683,
+      "total_recovered": 2227620
+    },
+    {
+      "date": "2021-06-12",
+      "total_cases": 2282727,
+      "total_deaths": 53758,
+      "total_recovered": 2228969
+    },
+    {
+      "date": "2021-06-13",
+      "total_cases": 2283746,
+      "total_deaths": 53795,
+      "total_recovered": 2229951
+    },
+    {
+      "date": "2021-06-14",
+      "total_cases": 2284337,
+      "total_deaths": 53812,
+      "total_recovered": 2230525
+    },
+    {
+      "date": "2021-06-15",
+      "total_cases": 2285534,
+      "total_deaths": 53894,
+      "total_recovered": 2231640
+    },
+    {
+      "date": "2021-06-16",
+      "total_cases": 2286767,
+      "total_deaths": 53980,
+      "total_recovered": 2232787
+    },
+    {
+      "date": "2021-06-17",
+      "total_cases": 2288155,
+      "total_deaths": 54041,
+      "total_recovered": 2234114
+    },
+    {
+      "date": "2021-06-18",
+      "total_cases": 2289333,
+      "total_deaths": 54097,
+      "total_recovered": 2235236
+    },
+    {
+      "date": "2021-06-19",
+      "total_cases": 2290412,
+      "total_deaths": 54142,
+      "total_recovered": 2236270
+    },
+    {
+      "date": "2021-06-20",
+      "total_cases": 2291135,
+      "total_deaths": 54171,
+      "total_recovered": 2236964
+    },
+    {
+      "date": "2021-06-21",
+      "total_cases": 2291722,
+      "total_deaths": 54192,
+      "total_recovered": 2237530
+    },
+    {
+      "date": "2021-06-22",
+      "total_cases": 2292295,
+      "total_deaths": 54220,
+      "total_recovered": 2238075
+    },
+    {
+      "date": "2021-06-23",
+      "total_cases": 2293421,
+      "total_deaths": 54299,
+      "total_recovered": 2239122
+    },
+    {
+      "date": "2021-06-24",
+      "total_cases": 2294669,
+      "total_deaths": 54366,
+      "total_recovered": 2240303
+    },
+    {
+      "date": "2021-06-25",
+      "total_cases": 2295873,
+      "total_deaths": 54429,
+      "total_recovered": 2241444
+    },
+    {
+      "date": "2021-06-26",
+      "total_cases": 2296982,
+      "total_deaths": 54473,
+      "total_recovered": 2242509
+    },
+    {
+      "date": "2021-06-27",
+      "total_cases": 2297801,
+      "total_deaths": 54498,
+      "total_recovered": 2243303
+    },
+    {
+      "date": "2021-06-28",
+      "total_cases": 2298478,
+      "total_deaths": 54517,
+      "total_recovered": 2243961
+    },
+    {
+      "date": "2021-06-29",
+      "total_cases": 2299059,
+      "total_deaths": 54531,
+      "total_recovered": 2244528
+    },
+    {
+      "date": "2021-06-30",
+      "total_cases": 2300101,
+      "total_deaths": 54581,
+      "total_recovered": 2245520
+    },
+    {
+      "date": "2021-07-01",
+      "total_cases": 2301221,
+      "total_deaths": 54644,
+      "total_recovered": 2246577
+    },
+    {
+      "date": "2021-07-02",
+      "total_cases": 2302344,
+      "total_deaths": 54687,
+      "total_recovered": 2247657
+    },
+    {
+      "date": "2021-07-03",
+      "total_cases": 2303485,
+      "total_deaths": 54735,
+      "total_recovered": 2248750
+    },
+    {
+      "date": "2021-07-04",
+      "total_cases": 2304311,
+      "total_deaths": 54758,
+      "total_recovered": 2249553
+    },
+    {
+      "date": "2021-07-05",
+      "total_cases": 2305013,
+      "total_deaths": 54784,
+      "total_recovered": 2250229
+    },
+    {
+      "date": "2021-07-06",
+      "total_cases": 2306006,
+      "total_deaths": 54815,
+      "total_recovered": 2251191
+    },
+    {
+      "date": "2021-07-07",
+      "total_cases": 2307068,
+      "total_deaths": 54860,
+      "total_recovered": 2252208
+    },
+    {
+      "date": "2021-07-08",
+      "total_cases": 2308142,
+      "total_deaths": 54894,
+      "total_recovered": 2253248
+    },
+    {
+      "date": "2021-07-09",
+      "total_cases": 2309264,
+      "total_deaths": 54917,
+      "total_recovered": 2254347
+    },
+    {
+      "date": "2021-07-10",
+      "total_cases": 2310246,
+      "total_deaths": 54949,
+      "total_recovered": 2255297
+    },
+    {
+      "date": "2021-07-11",
+      "total_cases": 2311025,
+      "total_deaths": 54964,
+      "total_recovered": 2256061
+    },
+    {
+      "date": "2021-07-12",
+      "total_cases": 2311690,
+      "total_deaths": 54981,
+      "total_recovered": 2256709
+    },
+    {
+      "date": "2021-07-13",
+      "total_cases": 2312662,
+      "total_deaths": 55030,
+      "total_recovered": 2257632
+    },
+    {
+      "date": "2021-07-14",
+      "total_cases": 2313705,
+      "total_deaths": 55066,
+      "total_recovered": 2258639
+    },
+    {
+      "date": "2021-07-15",
+      "total_cases": 2314828,
+      "total_deaths": 55097,
+      "total_recovered": 2259731
+    },
+    {
+      "date": "2021-07-16",
+      "total_cases": 2316081,
+      "total_deaths": 55124,
+      "total_recovered": 2260957
+    },
+    {
+      "date": "2021-07-17",
+      "total_cases": 2317198,
+      "total_deaths": 55151,
+      "total_recovered": 2262047
+    },
+    {
+      "date": "2021-07-18",
+      "total_cases": 2318035,
+      "total_deaths": 55170,
+      "total_recovered": 2262865
+    },
+    {
+      "date": "2021-07-19",
+      "total_cases": 2318752,
+      "total_deaths": 55183,
+      "total_recovered": 2263569
+    },
+    {
+      "date": "2021-07-20",
+      "total_cases": 2319886,
+      "total_deaths": 55221,
+      "total_recovered": 2264665
+    },
+    {
+      "date": "2021-07-21",
+      "total_cases": 2321081,
+      "total_deaths": 55245,
+      "total_recovered": 2265836
+    },
+    {
+      "date": "2021-07-22",
+      "total_cases": 2322340,
+      "total_deaths": 55279,
+      "total_recovered": 2267061
+    },
+    {
+      "date": "2021-07-23",
+      "total_cases": 2323638,
+      "total_deaths": 55311,
+      "total_recovered": 2268327
+    },
+    {
+      "date": "2021-07-24",
+      "total_cases": 2324935,
+      "total_deaths": 55347,
+      "total_recovered": 2269588
+    },
+    {
+      "date": "2021-07-25",
+      "total_cases": 2325776,
+      "total_deaths": 55369,
+      "total_recovered": 2270407
+    },
+    {
+      "date": "2021-07-26",
+      "total_cases": 2326550,
+      "total_deaths": 55381,
+      "total_recovered": 2271169
+    },
+    {
+      "date": "2021-07-27",
+      "total_cases": 2327777,
+      "total_deaths": 55420,
+      "total_recovered": 2272357
+    },
+    {
+      "date": "2021-07-28",
+      "total_cases": 2329044,
+      "total_deaths": 55449,
+      "total_recovered": 2273595
+    },
+    {
+      "date": "2021-07-29",
+      "total_cases": 2330440,
+      "total_deaths": 55489,
+      "total_recovered": 2274951
+    },
+    {
+      "date": "2021-07-30",
+      "total_cases": 2331950,
+      "total_deaths": 55521,
+      "total_recovered": 2276429
+    },
+    {
+      "date": "2021-07-31",
+      "total_cases": 2333409,
+      "total_deaths": 55556,
+      "total_recovered": 2277853
+    },
+    {
+      "date": "2021-08-01",
+      "total_cases": 2334433,
+      "total_deaths": 55577,
+      "total_recovered": 2278856
+    },
+    {
+      "date": "2021-08-02",
+      "total_cases": 2335237,
+      "total_deaths": 55596,
+      "total_recovered": 2279641
+    },
+    {
+      "date": "2021-08-03",
+      "total_cases": 2336603,
+      "total_deaths": 55643,
+      "total_recovered": 2280960
+    },
+    {
+      "date": "2021-08-04",
+      "total_cases": 2338123,
+      "total_deaths": 55707,
+      "total_recovered": 2282416
+    },
+    {
+      "date": "2021-08-05",
+      "total_cases": 2339731,
+      "total_deaths": 55755,
+      "total_recovered": 2283976
+    },
+    {
+      "date": "2021-08-06",
+      "total_cases": 2341399,
+      "total_deaths": 55792,
+      "total_recovered": 2285607
+    },
+    {
+      "date": "2021-08-07",
+      "total_cases": 2343046,
+      "total_deaths": 55836,
+      "total_recovered": 2287210
+    },
+    {
+      "date": "2021-08-08",
+      "total_cases": 2344260,
+      "total_deaths": 55867,
+      "total_recovered": 2288393
+    },
+    {
+      "date": "2021-08-09",
+      "total_cases": 2345166,
+      "total_deaths": 55890,
+      "total_recovered": 2289276
+    },
+    {
+      "date": "2021-08-10",
+      "total_cases": 2346560,
+      "total_deaths": 55937,
+      "total_recovered": 2290623
+    },
+    {
+      "date": "2021-08-11",
+      "total_cases": 2348295,
+      "total_deaths": 55977,
+      "total_recovered": 2292318
+    },
+    {
+      "date": "2021-08-12",
+      "total_cases": 2350163,
+      "total_deaths": 56021,
+      "total_recovered": 2294142
+    },
+    {
+      "date": "2021-08-13",
+      "total_cases": 2352042,
+      "total_deaths": 56085,
+      "total_recovered": 2295957
+    },
+    {
+      "date": "2021-08-14",
+      "total_cases": 2354008,
+      "total_deaths": 56126,
+      "total_recovered": 2297882
+    },
+    {
+      "date": "2021-08-15",
+      "total_cases": 2355317,
+      "total_deaths": 56159,
+      "total_recovered": 2299158
+    },
+    {
+      "date": "2021-08-16",
+      "total_cases": 2356345,
+      "total_deaths": 56190,
+      "total_recovered": 2300155
+    },
+    {
+      "date": "2021-08-17",
+      "total_cases": 2357844,
+      "total_deaths": 56237,
+      "total_recovered": 2301607
+    },
+    {
+      "date": "2021-08-18",
+      "total_cases": 2359893,
+      "total_deaths": 56297,
+      "total_recovered": 2303596
+    },
+    {
+      "date": "2021-08-19",
+      "total_cases": 2362052,
+      "total_deaths": 56352,
+      "total_recovered": 2305700
+    },
+    {
+      "date": "2021-08-20",
+      "total_cases": 2364242,
+      "total_deaths": 56399,
+      "total_recovered": 2307843
+    },
+    {
+      "date": "2021-08-21",
+      "total_cases": 2366560,
+      "total_deaths": 56457,
+      "total_recovered": 2310103
+    },
+    {
+      "date": "2021-08-22",
+      "total_cases": 2368150,
+      "total_deaths": 56498,
+      "total_recovered": 2311652
+    },
+    {
+      "date": "2021-08-23",
+      "total_cases": 2369339,
+      "total_deaths": 56526,
+      "total_recovered": 2312813
+    },
+    {
+      "date": "2021-08-24",
+      "total_cases": 2370604,
+      "total_deaths": 56573,
+      "total_recovered": 2314031
+    },
+    {
+      "date": "2021-08-25",
+      "total_cases": 2371895,
+      "total_deaths": 56616,
+      "total_recovered": 2315279
+    },
+    {
+      "date": "2021-08-26",
+      "total_cases": 2374012,
+      "total_deaths": 56682,
+      "total_recovered": 2317330
+    },
+    {
+      "date": "2021-08-27",
+      "total_cases": 2376571,
+      "total_deaths": 56769,
+      "total_recovered": 2319802
+    },
+    {
+      "date": "2021-08-28",
+      "total_cases": 2379159,
+      "total_deaths": 56847,
+      "total_recovered": 2322312
+    },
+    {
+      "date": "2021-08-29",
+      "total_cases": 2381553,
+      "total_deaths": 56900,
+      "total_recovered": 2324653
+    },
+    {
+      "date": "2021-08-30",
+      "total_cases": 2382769,
+      "total_deaths": 56934,
+      "total_recovered": 2325835
+    },
+    {
+      "date": "2021-08-31",
+      "total_cases": 2384564,
+      "total_deaths": 57004,
+      "total_recovered": 2327560
+    },
+    {
+      "date": "2021-09-01",
+      "total_cases": 2387052,
+      "total_deaths": 57066,
+      "total_recovered": 2329986
+    },
+    {
+      "date": "2021-09-02",
+      "total_cases": 2389923,
+      "total_deaths": 57129,
+      "total_recovered": 2332794
+    },
+    {
+      "date": "2021-09-03",
+      "total_cases": 2393002,
+      "total_deaths": 57192,
+      "total_recovered": 2335810
+    },
+    {
+      "date": "2021-09-04",
+      "total_cases": 2395616,
+      "total_deaths": 57236,
+      "total_recovered": 2338380
+    },
+    {
+      "date": "2021-09-05",
+      "total_cases": 2397758,
+      "total_deaths": 57287,
+      "total_recovered": 2340471
+    },
+    {
+      "date": "2021-09-06",
+      "total_cases": 2398900,
+      "total_deaths": 57319,
+      "total_recovered": 2341581
+    },
+    {
+      "date": "2021-09-07",
+      "total_cases": 2401462,
+      "total_deaths": 57392,
+      "total_recovered": 2344070
+    },
+    {
+      "date": "2021-09-08",
+      "total_cases": 2404585,
+      "total_deaths": 57472,
+      "total_recovered": 2347113
+    },
+    {
+      "date": "2021-09-09",
+      "total_cases": 2408595,
+      "total_deaths": 57552,
+      "total_recovered": 2351043
+    },
+    {
+      "date": "2021-09-10",
+      "total_cases": 2412543,
+      "total_deaths": 57648,
+      "total_recovered": 2354895
+    },
+    {
+      "date": "2021-09-11",
+      "total_cases": 2416739,
+      "total_deaths": 57735,
+      "total_recovered": 2359004
+    },
+    {
+      "date": "2021-09-12",
+      "total_cases": 2419254,
+      "total_deaths": 57772,
+      "total_recovered": 2361482
+    },
+    {
+      "date": "2021-09-13",
+      "total_cases": 2420776,
+      "total_deaths": 57797,
+      "total_recovered": 2362979
+    },
+    {
+      "date": "2021-09-14",
+      "total_cases": 2424416,
+      "total_deaths": 57913,
+      "total_recovered": 2366503
+    },
+    {
+      "date": "2021-09-15",
+      "total_cases": 2429354,
+      "total_deaths": 58025,
+      "total_recovered": 2371329
+    },
+    {
+      "date": "2021-09-16",
+      "total_cases": 2435404,
+      "total_deaths": 58146,
+      "total_recovered": 2377258
+    },
+    {
+      "date": "2021-09-17",
+      "total_cases": 2442344,
+      "total_deaths": 58265,
+      "total_recovered": 2384079
+    },
+    {
+      "date": "2021-09-18",
+      "total_cases": 2448908,
+      "total_deaths": 58363,
+      "total_recovered": 2390545
+    },
+    {
+      "date": "2021-09-19",
+      "total_cases": 2453240,
+      "total_deaths": 58422,
+      "total_recovered": 2394818
+    },
+    {
+      "date": "2021-09-20",
+      "total_cases": 2455873,
+      "total_deaths": 58477,
+      "total_recovered": 2397396
+    },
+    {
+      "date": "2021-09-21",
+      "total_cases": 2461415,
+      "total_deaths": 58629,
+      "total_recovered": 2402786
+    },
+    {
+      "date": "2021-09-22",
+      "total_cases": 2468567,
+      "total_deaths": 58754,
+      "total_recovered": 2409813
+    },
+    {
+      "date": "2021-09-23",
+      "total_cases": 2476848,
+      "total_deaths": 58895,
+      "total_recovered": 2417953
+    },
+    {
+      "date": "2021-09-24",
+      "total_cases": 2486343,
+      "total_deaths": 59053,
+      "total_recovered": 2427290
+    },
+    {
+      "date": "2021-09-25",
+      "total_cases": 2495068,
+      "total_deaths": 59202,
+      "total_recovered": 2435866
+    },
+    {
+      "date": "2021-09-26",
+      "total_cases": 2500198,
+      "total_deaths": 59281,
+      "total_recovered": 2440917
+    },
+    {
+      "date": "2021-09-27",
+      "total_cases": 2503710,
+      "total_deaths": 59384,
+      "total_recovered": 2444326
+    },
+    {
+      "date": "2021-09-28",
+      "total_cases": 2510781,
+      "total_deaths": 59540,
+      "total_recovered": 2451241
+    },
+    {
+      "date": "2021-09-29",
+      "total_cases": 2520986,
+      "total_deaths": 59768,
+      "total_recovered": 2461218
+    },
+    {
+      "date": "2021-09-30",
+      "total_cases": 2533301,
+      "total_deaths": 59980,
+      "total_recovered": 2473321
+    },
+    {
+      "date": "2021-10-01",
+      "total_cases": 2545904,
+      "total_deaths": 60164,
+      "total_recovered": 2485740
+    },
+    {
+      "date": "2021-10-02",
+      "total_cases": 2558300,
+      "total_deaths": 60380,
+      "total_recovered": 2497920
+    },
+    {
+      "date": "2021-10-03",
+      "total_cases": 2566875,
+      "total_deaths": 60514,
+      "total_recovered": 2506361
+    },
+    {
+      "date": "2021-10-04",
+      "total_cases": 2572327,
+      "total_deaths": 60634,
+      "total_recovered": 2511693
+    },
+    {
+      "date": "2021-10-05",
+      "total_cases": 2582818,
+      "total_deaths": 60970,
+      "total_recovered": 2521848
+    },
+    {
+      "date": "2021-10-06",
+      "total_cases": 2596134,
+      "total_deaths": 61309,
+      "total_recovered": 2534825
+    },
+    {
+      "date": "2021-10-07",
+      "total_cases": 2611928,
+      "total_deaths": 61637,
+      "total_recovered": 2550291
+    },
+    {
+      "date": "2021-10-08",
+      "total_cases": 2628975,
+      "total_deaths": 61893,
+      "total_recovered": 2567082
+    },
+    {
+      "date": "2021-10-09",
+      "total_cases": 2645597,
+      "total_deaths": 62157,
+      "total_recovered": 2583440
+    },
+    {
+      "date": "2021-10-10",
+      "total_cases": 2657699,
+      "total_deaths": 62332,
+      "total_recovered": 2595367
+    },
+    {
+      "date": "2021-10-11",
+      "total_cases": 2667304,
+      "total_deaths": 62550,
+      "total_recovered": 2604754
+    },
+    {
+      "date": "2021-10-12",
+      "total_cases": 2680076,
+      "total_deaths": 62921,
+      "total_recovered": 2617155
+    },
+    {
+      "date": "2021-10-13",
+      "total_cases": 2697176,
+      "total_deaths": 63414,
+      "total_recovered": 2633762
+    },
+    {
+      "date": "2021-10-14",
+      "total_cases": 2716867,
+      "total_deaths": 63847,
+      "total_recovered": 2653020
+    },
+    {
+      "date": "2021-10-15",
+      "total_cases": 2731325,
+      "total_deaths": 64068,
+      "total_recovered": 2667257
+    },
+    {
+      "date": "2021-10-16",
+      "total_cases": 2745165,
+      "total_deaths": 64367,
+      "total_recovered": 2680798
+    },
+    {
+      "date": "2021-10-17",
+      "total_cases": 2757328,
+      "total_deaths": 64603,
+      "total_recovered": 2692725
+    },
+    {
+      "date": "2021-10-18",
+      "total_cases": 2767743,
+      "total_deaths": 64797,
+      "total_recovered": 2702946
+    },
+    {
+      "date": "2021-10-19",
+      "total_cases": 2784227,
+      "total_deaths": 65359,
+      "total_recovered": 2718868
+    },
+    {
+      "date": "2021-10-20",
+      "total_cases": 2804050,
+      "total_deaths": 65876,
+      "total_recovered": 2738174
+    },
+    {
+      "date": "2021-10-21",
+      "total_cases": 2827388,
+      "total_deaths": 66447,
+      "total_recovered": 2760941
+    },
+    {
+      "date": "2021-10-22",
+      "total_cases": 2852109,
+      "total_deaths": 67087,
+      "total_recovered": 2785022
+    },
+    {
+      "date": "2021-10-23",
+      "total_cases": 2876288,
+      "total_deaths": 67597,
+      "total_recovered": 2808691
+    },
+    {
+      "date": "2021-10-24",
+      "total_cases": 2898049,
+      "total_deaths": 68008,
+      "total_recovered": 2830041
+    },
+    {
+      "date": "2021-10-25",
+      "total_cases": 2913666,
+      "total_deaths": 68365,
+      "total_recovered": 2845301
+    },
+    {
+      "date": "2021-10-26",
+      "total_cases": 2933778,
+      "total_deaths": 69130,
+      "total_recovered": 2864648
+    },
+    {
+      "date": "2021-10-27",
+      "total_cases": 2957359,
+      "total_deaths": 69854,
+      "total_recovered": 2887505
+    },
+    {
+      "date": "2021-10-28",
+      "total_cases": 2984456,
+      "total_deaths": 70475,
+      "total_recovered": 2913981
+    },
+    {
+      "date": "2021-10-29",
+      "total_cases": 3012370,
+      "total_deaths": 71141,
+      "total_recovered": 2941229
+    },
+    {
+      "date": "2021-10-30",
+      "total_cases": 3039616,
+      "total_deaths": 71710,
+      "total_recovered": 2967906
+    },
+    {
+      "date": "2021-10-31",
+      "total_cases": 3058108,
+      "total_deaths": 72073,
+      "total_recovered": 2986035
+    },
+    {
+      "date": "2021-11-01",
+      "total_cases": 3073125,
+      "total_deaths": 72402,
+      "total_recovered": 3000723
+    },
+    {
+      "date": "2021-11-02",
+      "total_cases": 3093661,
+      "total_deaths": 73136,
+      "total_recovered": 3020525
+    },
+    {
+      "date": "2021-11-03",
+      "total_cases": 3118140,
+      "total_deaths": 73888,
+      "total_recovered": 3044252
+    },
+    {
+      "date": "2021-11-04",
+      "total_cases": 3146617,
+      "total_deaths": 74617,
+      "total_recovered": 3072000
+    },
+    {
+      "date": "2021-11-05",
+      "total_cases": 3174223,
+      "total_deaths": 75346,
+      "total_recovered": 3098877
+    },
+    {
+      "date": "2021-11-06",
+      "total_cases": 3200411,
+      "total_deaths": 76175,
+      "total_recovered": 3124236
+    },
+    {
+      "date": "2021-11-07",
+      "total_cases": 3218967,
+      "total_deaths": 76657,
+      "total_recovered": 3142310
+    },
+    {
+      "date": "2021-11-08",
+      "total_cases": 3233178,
+      "total_deaths": 77156,
+      "total_recovered": 3156022
+    },
+    {
+      "date": "2021-11-09",
+      "total_cases": 3253327,
+      "total_deaths": 78017,
+      "total_recovered": 3175310
+    },
+    {
+      "date": "2021-11-10",
+      "total_cases": 3277772,
+      "total_deaths": 78865,
+      "total_recovered": 3198907
+    },
+    {
+      "date": "2021-11-11",
+      "total_cases": 3303694,
+      "total_deaths": 79548,
+      "total_recovered": 3224146
+    },
+    {
+      "date": "2021-11-12",
+      "total_cases": 3328934,
+      "total_deaths": 80330,
+      "total_recovered": 3248604
+    },
+    {
+      "date": "2021-11-13",
+      "total_cases": 3353694,
+      "total_deaths": 81054,
+      "total_recovered": 3272640
+    },
+    {
+      "date": "2021-11-14",
+      "total_cases": 3369387,
+      "total_deaths": 81482,
+      "total_recovered": 3287905
+    },
+    {
+      "date": "2021-11-15",
+      "total_cases": 3381399,
+      "total_deaths": 81948,
+      "total_recovered": 3299451
+    },
+    {
+      "date": "2021-11-16",
+      "total_cases": 3398913,
+      "total_deaths": 82813,
+      "total_recovered": 3316100
+    },
+    {
+      "date": "2021-11-17",
+      "total_cases": 3418792,
+      "total_deaths": 83609,
+      "total_recovered": 3335183
+    },
+    {
+      "date": "2021-11-18",
+      "total_cases": 3440602,
+      "total_deaths": 84393,
+      "total_recovered": 3356209
+    },
+    {
+      "date": "2021-11-19",
+      "total_cases": 3461873,
+      "total_deaths": 85151,
+      "total_recovered": 3376722
+    },
+    {
+      "date": "2021-11-20",
+      "total_cases": 3481347,
+      "total_deaths": 85847,
+      "total_recovered": 3395500
+    },
+    {
+      "date": "2021-11-21",
+      "total_cases": 3493203,
+      "total_deaths": 86260,
+      "total_recovered": 3406943
+    },
+    {
+      "date": "2021-11-22",
+      "total_cases": 3501815,
+      "total_deaths": 86615,
+      "total_recovered": 3415200
+    },
+    {
+      "date": "2021-11-23",
+      "total_cases": 3515641,
+      "total_deaths": 87371,
+      "total_recovered": 3428270
+    },
+    {
+      "date": "2021-11-24",
+      "total_cases": 3530969,
+      "total_deaths": 87999,
+      "total_recovered": 3442970
+    },
+    {
+      "date": "2021-11-25",
+      "total_cases": 3548842,
+      "total_deaths": 88664,
+      "total_recovered": 3460178
+    },
+    {
+      "date": "2021-11-26",
+      "total_cases": 3565644,
+      "total_deaths": 89307,
+      "total_recovered": 3476337
+    },
+    {
+      "date": "2021-11-27",
+      "total_cases": 3580671,
+      "total_deaths": 89911,
+      "total_recovered": 3490760
+    },
+    {
+      "date": "2021-11-28",
+      "total_cases": 3588916,
+      "total_deaths": 90345,
+      "total_recovered": 3498571
+    },
+    {
+      "date": "2021-11-29",
+      "total_cases": 3595410,
+      "total_deaths": 90673,
+      "total_recovered": 3504737
+    },
+    {
+      "date": "2021-11-30",
+      "total_cases": 3606622,
+      "total_deaths": 91268,
+      "total_recovered": 3515354
+    },
+    {
+      "date": "2021-12-01",
+      "total_cases": 3619223,
+      "total_deaths": 91860,
+      "total_recovered": 3527363
+    },
+    {
+      "date": "2021-12-02",
+      "total_cases": 3633386,
+      "total_deaths": 92418,
+      "total_recovered": 3540968
+    },
+    {
+      "date": "2021-12-03",
+      "total_cases": 3647777,
+      "total_deaths": 92960,
+      "total_recovered": 3554817
+    },
+    {
+      "date": "2021-12-04",
+      "total_cases": 3661583,
+      "total_deaths": 93426,
+      "total_recovered": 3568157
+    },
+    {
+      "date": "2021-12-05",
+      "total_cases": 3668794,
+      "total_deaths": 93734,
+      "total_recovered": 3575060
+    },
+    {
+      "date": "2021-12-06",
+      "total_cases": 3673839,
+      "total_deaths": 94002,
+      "total_recovered": 3579837
+    },
+    {
+      "date": "2021-12-07",
+      "total_cases": 3683044,
+      "total_deaths": 94499,
+      "total_recovered": 3588545
+    },
+    {
+      "date": "2021-12-08",
+      "total_cases": 3692939,
+      "total_deaths": 94979,
+      "total_recovered": 3597960
+    },
+    {
+      "date": "2021-12-09",
+      "total_cases": 3705823,
+      "total_deaths": 95478,
+      "total_recovered": 3610345
+    },
+    {
+      "date": "2021-12-10",
+      "total_cases": 3717640,
+      "total_deaths": 95952,
+      "total_recovered": 3621688
+    },
+    {
+      "date": "2021-12-11",
+      "total_cases": 3728246,
+      "total_deaths": 96427,
+      "total_recovered": 3631819
+    },
+    {
+      "date": "2021-12-12",
+      "total_cases": 3733967,
+      "total_deaths": 96695,
+      "total_recovered": 3637272
+    },
+    {
+      "date": "2021-12-13",
+      "total_cases": 3738390,
+      "total_deaths": 96910,
+      "total_recovered": 3641480
+    },
+    {
+      "date": "2021-12-14",
+      "total_cases": 3746106,
+      "total_deaths": 97328,
+      "total_recovered": 3648778
+    },
+    {
+      "date": "2021-12-15",
+      "total_cases": 3754567,
+      "total_deaths": 97714,
+      "total_recovered": 3656853
+    },
+    {
+      "date": "2021-12-16",
+      "total_cases": 3764485,
+      "total_deaths": 98097,
+      "total_recovered": 3666388
+    },
+    {
+      "date": "2021-12-17",
+      "total_cases": 3773700,
+      "total_deaths": 98453,
+      "total_recovered": 3675247
+    },
+    {
+      "date": "2021-12-18",
+      "total_cases": 3781506,
+      "total_deaths": 98769,
+      "total_recovered": 3682737
+    },
+    {
+      "date": "2021-12-19",
+      "total_cases": 3785395,
+      "total_deaths": 98972,
+      "total_recovered": 3686423
+    },
+    {
+      "date": "2021-12-20",
+      "total_cases": 3788209,
+      "total_deaths": 99153,
+      "total_recovered": 3689056
+    },
+    {
+      "date": "2021-12-21",
+      "total_cases": 3794490,
+      "total_deaths": 99528,
+      "total_recovered": 3694962
+    },
+    {
+      "date": "2021-12-22",
+      "total_cases": 3801079,
+      "total_deaths": 99856,
+      "total_recovered": 3701223
+    },
+    {
+      "date": "2021-12-23",
+      "total_cases": 3808612,
+      "total_deaths": 100159,
+      "total_recovered": 3708453
+    },
+    {
+      "date": "2021-12-24",
+      "total_cases": 3815440,
+      "total_deaths": 100433,
+      "total_recovered": 3715007
+    },
+    {
+      "date": "2021-12-25",
+      "total_cases": 3820891,
+      "total_deaths": 100727,
+      "total_recovered": 3720164
+    },
+    {
+      "date": "2021-12-26",
+      "total_cases": 3823879,
+      "total_deaths": 100891,
+      "total_recovered": 3722988
+    },
+    {
+      "date": "2021-12-27",
+      "total_cases": 3825917,
+      "total_deaths": 101049,
+      "total_recovered": 3724868
+    },
+    {
+      "date": "2021-12-28",
+      "total_cases": 3828336,
+      "total_deaths": 101212,
+      "total_recovered": 3727124
+    },
+    {
+      "date": "2021-12-29",
+      "total_cases": 3833952,
+      "total_deaths": 101548,
+      "total_recovered": 3732404
+    },
+    {
+      "date": "2021-12-30",
+      "total_cases": 3840041,
+      "total_deaths": 101847,
+      "total_recovered": 3738194
+    },
+    {
+      "date": "2021-12-31",
+      "total_cases": 3847226,
+      "total_deaths": 102088,
+      "total_recovered": 3745138
+    },
+    {
+      "date": "2022-01-01",
+      "total_cases": 3852397,
+      "total_deaths": 102300,
+      "total_recovered": 3750097
+    },
+    {
+      "date": "2022-01-02",
+      "total_cases": 3854405,
+      "total_deaths": 102421,
+      "total_recovered": 3751984
+    },
+    {
+      "date": "2022-01-03",
+      "total_cases": 3856359,
+      "total_deaths": 102558,
+      "total_recovered": 3753801
+    },
+    {
+      "date": "2022-01-04",
+      "total_cases": 3858248,
+      "total_deaths": 102717,
+      "total_recovered": 3755531
+    },
+    {
+      "date": "2022-01-05",
+      "total_cases": 3862959,
+      "total_deaths": 103014,
+      "total_recovered": 3759945
+    },
+    {
+      "date": "2022-01-06",
+      "total_cases": 3869728,
+      "total_deaths": 103225,
+      "total_recovered": 3766503
+    },
+    {
+      "date": "2022-01-07",
+      "total_cases": 3877032,
+      "total_deaths": 103434,
+      "total_recovered": 3773598
+    },
+    {
+      "date": "2022-01-08",
+      "total_cases": 3880371,
+      "total_deaths": 103523,
+      "total_recovered": 3776848
+    },
+    {
+      "date": "2022-01-09",
+      "total_cases": 3883316,
+      "total_deaths": 103615,
+      "total_recovered": 3779701
+    },
+    {
+      "date": "2022-01-10",
+      "total_cases": 3885416,
+      "total_deaths": 103716,
+      "total_recovered": 3781700
+    },
+    {
+      "date": "2022-01-11",
+      "total_cases": 3890974,
+      "total_deaths": 103950,
+      "total_recovered": 3787024
+    },
+    {
+      "date": "2022-01-12",
+      "total_cases": 3898240,
+      "total_deaths": 104159,
+      "total_recovered": 3794081
+    },
+    {
+      "date": "2022-01-13",
+      "total_cases": 3908469,
+      "total_deaths": 104367,
+      "total_recovered": 3804102
+    },
+    {
+      "date": "2022-01-14",
+      "total_cases": 3919151,
+      "total_deaths": 104521,
+      "total_recovered": 3814630
+    },
+    {
+      "date": "2022-01-15",
+      "total_cases": 3929950,
+      "total_deaths": 104663,
+      "total_recovered": 3825287
+    },
+    {
+      "date": "2022-01-16",
+      "total_cases": 3936582,
+      "total_deaths": 104765,
+      "total_recovered": 3831817
+    },
+    {
+      "date": "2022-01-17",
+      "total_cases": 3941923,
+      "total_deaths": 104856,
+      "total_recovered": 3837067
+    },
+    {
+      "date": "2022-01-18",
+      "total_cases": 3950774,
+      "total_deaths": 105059,
+      "total_recovered": 3845715
+    },
+    {
+      "date": "2022-01-19",
+      "total_cases": 3963917,
+      "total_deaths": 105236,
+      "total_recovered": 3858681
+    },
+    {
+      "date": "2022-01-20",
+      "total_cases": 3982738,
+      "total_deaths": 105380,
+      "total_recovered": 3877358
+    },
+    {
+      "date": "2022-01-21",
+      "total_cases": 4003280,
+      "total_deaths": 105545,
+      "total_recovered": 3897735
+    },
+    {
+      "date": "2022-01-22",
+      "total_cases": 4026198,
+      "total_deaths": 105693,
+      "total_recovered": 3920505
+    },
+    {
+      "date": "2022-01-23",
+      "total_cases": 4042152,
+      "total_deaths": 105791,
+      "total_recovered": 3936361
+    },
+    {
+      "date": "2022-01-24",
+      "total_cases": 4055643,
+      "total_deaths": 105871,
+      "total_recovered": 3949772
+    },
+    {
+      "date": "2022-01-25",
+      "total_cases": 4075351,
+      "total_deaths": 106047,
+      "total_recovered": 3969304
+    },
+    {
+      "date": "2022-01-26",
+      "total_cases": 4100292,
+      "total_deaths": 106205,
+      "total_recovered": 3994087
+    },
+    {
+      "date": "2022-01-27",
+      "total_cases": 4133396,
+      "total_deaths": 106373,
+      "total_recovered": 4027023
+    },
+    {
+      "date": "2022-01-28",
+      "total_cases": 4168560,
+      "total_deaths": 106529,
+      "total_recovered": 4062031
+    },
+    {
+      "date": "2022-01-29",
+      "total_cases": 4206731,
+      "total_deaths": 106690,
+      "total_recovered": 4100041
+    },
+    {
+      "date": "2022-01-30",
+      "total_cases": 4232143,
+      "total_deaths": 106793,
+      "total_recovered": 4125350
+    },
+    {
+      "date": "2022-01-31",
+      "total_cases": 4255206,
+      "total_deaths": 106880,
+      "total_recovered": 4148326
+    },
+    {
+      "date": "2022-02-01",
+      "total_cases": 4287117,
+      "total_deaths": 107086,
+      "total_recovered": 4180031
+    },
+    {
+      "date": "2022-02-02",
+      "total_cases": 4323009,
+      "total_deaths": 107303,
+      "total_recovered": 4215706
+    },
+    {
+      "date": "2022-02-03",
+      "total_cases": 4363754,
+      "total_deaths": 107524,
+      "total_recovered": 4256230
+    },
+    {
+      "date": "2022-02-04",
+      "total_cases": 4408776,
+      "total_deaths": 107712,
+      "total_recovered": 4301064
+    },
+    {
+      "date": "2022-02-05",
+      "total_cases": 4452612,
+      "total_deaths": 107907,
+      "total_recovered": 4344705
+    },
+    {
+      "date": "2022-02-06",
+      "total_cases": 4481918,
+      "total_deaths": 108027,
+      "total_recovered": 4373891
+    },
+    {
+      "date": "2022-02-07",
+      "total_cases": 4506669,
+      "total_deaths": 108151,
+      "total_recovered": 4398518
+    },
+    {
+      "date": "2022-02-08",
+      "total_cases": 4542568,
+      "total_deaths": 108417,
+      "total_recovered": 4434151
+    },
+    {
+      "date": "2022-02-09",
+      "total_cases": 4582137,
+      "total_deaths": 108668,
+      "total_recovered": 4473469
+    },
+    {
+      "date": "2022-02-10",
+      "total_cases": 4625614,
+      "total_deaths": 108958,
+      "total_recovered": 4516656
+    },
+    {
+      "date": "2022-02-11",
+      "total_cases": 4668581,
+      "total_deaths": 109206,
+      "total_recovered": 4559375
+    },
+    {
+      "date": "2022-02-12",
+      "total_cases": 4708604,
+      "total_deaths": 109483,
+      "total_recovered": 4599121
+    },
+    {
+      "date": "2022-02-13",
+      "total_cases": 4735258,
+      "total_deaths": 109635,
+      "total_recovered": 4625623
+    },
+    {
+      "date": "2022-02-14",
+      "total_cases": 4753922,
+      "total_deaths": 109788,
+      "total_recovered": 4644134
+    },
+    {
+      "date": "2022-02-15",
+      "total_cases": 4785138,
+      "total_deaths": 110105,
+      "total_recovered": 4675033
+    },
+    {
+      "date": "2022-02-16",
+      "total_cases": 4818112,
+      "total_deaths": 110427,
+      "total_recovered": 4707685
+    },
+    {
+      "date": "2022-02-17",
+      "total_cases": 4853339,
+      "total_deaths": 110698,
+      "total_recovered": 4742641
+    },
+    {
+      "date": "2022-02-18",
+      "total_cases": 4890332,
+      "total_deaths": 110989,
+      "total_recovered": 4779343
+    },
+    {
+      "date": "2022-02-19",
+      "total_cases": 4923680,
+      "total_deaths": 111261,
+      "total_recovered": 4812419
+    },
+    {
+      "date": "2022-02-20",
+      "total_cases": 4943428,
+      "total_deaths": 111423,
+      "total_recovered": 4832005
+    },
+    {
+      "date": "2022-02-21",
+      "total_cases": 4959461,
+      "total_deaths": 111561,
+      "total_recovered": 4847900
+    },
+    {
+      "date": "2022-02-22",
+      "total_cases": 4986161,
+      "total_deaths": 111862,
+      "total_recovered": 4874299
+    },
+    {
+      "date": "2022-02-23",
+      "total_cases": 5012980,
+      "total_deaths": 112173,
+      "total_recovered": 4900807
+    },
+    {
+      "date": "2022-02-24",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-02-25",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-02-26",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-02-27",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-02-28",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-01",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-02",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-03",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-04",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-05",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-06",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-07",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-08",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-09",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-10",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-11",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-12",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-13",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-14",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-15",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-16",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-17",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-18",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-19",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-20",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-21",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-22",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-23",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-24",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-25",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-26",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-27",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-28",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-29",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-30",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-03-31",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-01",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-02",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-03",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-04",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-05",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-06",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-07",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-08",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-09",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-10",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-11",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-12",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-13",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-14",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-15",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-16",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-17",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-18",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-19",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-20",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-21",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-22",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-23",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-24",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-25",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-26",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-27",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-28",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-29",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-04-30",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-05-01",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-05-02",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-05-03",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-05-04",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-05-05",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-05-06",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-05-07",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-05-08",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-05-09",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-05-10",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-05-11",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-05-12",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-05-13",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-05-14",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-05-15",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-05-16",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-05-17",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-05-18",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    },
+    {
+      "date": "2022-05-19",
+      "total_cases": 5040518,
+      "total_deaths": 112459,
+      "total_recovered": 4928059
+    }
+  ]
+}

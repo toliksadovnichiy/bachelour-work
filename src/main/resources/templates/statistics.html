@@ -1,0 +1,128 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org" xmlns="http://www.w3.org/1999/html">
+<head>
+    <title>Загальні дані</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js">
+    <link type="text/css" rel="stylesheet" th:href="@{/css/styles.css}"/>
+
+
+</head>
+<body>
+    <div th:insert="blocks :: header"></div>
+    <div class="container mt-5">
+        <div class="container pt-5"><h1>Загальні дані</h1></div>
+        <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
+            <h1 th:text="${stats[722].date}" class="display-4 fw-normal"></h1>
+            <p class="fs-5 text-muted">Короткі відомості щодо ситуації на сьогодні.</p>
+        </div>
+        <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
+            <div class="col">
+                <div class="card mb-4 rounded-3 shadow-sm">
+                    <div class="card-header py-3">
+                        <h4 class="my-0 fw-normal">Захворіло</h4>
+                    </div>
+                    <div class="card-body">
+                        <h1 class="card-title pricing-card-title" th:text="${stats[722].total_cases}">
+                            <small class="text-muted fw-light">чол</small>
+                        </h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card mb-4 rounded-3 shadow-sm">
+                    <div class="card-header py-3">
+                        <h4 class="my-0 fw-normal">Одужало</h4>
+                    </div>
+                    <div class="card-body">
+                        <h1 class="card-title pricing-card-title" th:text="${stats[722].total_recovered}">
+                            <small class="text-muted fw-light">чол</small>
+                        </h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card mb-4 rounded-3 shadow-sm">
+                    <div class="card-header py-3">
+                        <h4 class="my-0 fw-normal">Померло</h4>
+                    </div>
+                    <div class="card-body">
+                        <h1 class="card-title pricing-card-title" th:text="${stats[722].total_deaths}">
+                            <small class="text-muted fw-light">чол</small>
+                        </h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+
+            <!-- Resources -->
+            <script src="https://cdn.amcharts.com/lib/5/index.js"></script>
+            <script src="https://cdn.amcharts.com/lib/5/xy.js"></script>
+            <script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
+            <script type="text/javascript" th:src="@{/js/covid-new-data.js}" ></script>
+            <script type="text/javascript" th:src="@{/js/covid-total-data.js}" ></script>
+
+            <!-- Chart  -->
+            <script type="text/javascript" th:src="@{/js/multiline-chart-main.js}" ></script>
+            <script type="text/javascript" th:src="@{/js/pie_chart.js}" ></script>
+
+            <script>
+                createFullChart(
+                    ["total_cases", "total_recovered", "total_deaths"],
+                    ["Інфіковано", "Одужало", "Померло"],
+                    total_data,
+                    "chartdiv"
+                );
+                createFullChart(
+                    ["new_cases", "new_recovered", "new_deaths"],
+                    ["Інфіковано", "Одужало", "Померло"],
+                    new_data,
+                    "chartdiv1"
+                );
+                createFullPieChart("chartdiv2")
+            </script>
+            <div class="container mt-5"><h3>Статистика захворюваності (загальна кількість)</h3></div>
+            <div class="container mt-1" id="chartdiv"></div>
+            <div class="container mt-5"><h3>Статистика захворюваності (нові випадки)</h3></div>
+            <div class="container mt-1" id="chartdiv1"></div>
+<!--            <div class="container mt-5"><h3>Розподіл інфікованих COVID-19 в Україні за віком</h3></div>-->
+<!--            <div class="container mt-1" id="chartdiv2"></div>-->
+        </div>
+
+        <div class="container mt-4"><h4>Дані по захворюваності по Україні за весь час</h4></div>
+        <div class="table-wrapper-scroll-y my-custom-scrollbar" style="height: 450px;overflow: scroll;">
+            <table class="table table-bordered table-striped mb-0">
+                <thead>
+                    <tr>
+                        <th scope="col">Дата</th>
+                        <th scope="col">Всього захворіло</th>
+                        <th scope="col">Всього одужало</th>
+                        <th scope="col">Всього померло</th>
+                        <th scope="col">Захворіло за день</th>
+                        <th scope="col">Одужало за день</th>
+                        <th scope="col">Померло за день</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <div th:each="day : ${stats}">
+                        <tr>
+                            <td th:text="${day.date}"></td>
+                            <td th:text="${day.total_cases}"></td>
+                            <td th:text="${day.total_recovered}"></td>
+                            <td th:text="${day.total_deaths}"></td>
+                            <td th:text="${day.new_cases}"></td>
+                            <td th:text="${day.new_cases} - ${day.new_deaths}"></td>
+                            <td th:text="${day.new_deaths}"></td>
+                        </tr>
+                    </div>
+                </tbody>
+
+            </table>
+        </div>
+    </div>
+    <div th:insert="blocks :: footer" class="container"></div>
+</body>
+</html>

@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title th:text="${title}" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js">
+
+</head>
+<body>
+    <div class="header" th:insert="blocks :: header"></div>
+    <div class="container col-xxl-8 px-4 py-5">
+        <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+            <div class="col-10 col-sm-8 col-lg-6">
+                <img src="https://images.pexels.com/photos/3992933/pexels-photo-3992933.jpeg?cs=srgb&dl=pexels-cdc-3992933.jpg&fm=jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
+            </div>
+            <div class="col-lg-6">
+                <h1 class="display-5 fw-bold lh-1 mb-3">COVID-19</h1>
+                <p class="lead">В Україні коронавірусна інфекція Covid-19 (пневмонія нового типу) вперше була діагностована 3 березня 2020 року у Чернівцях. 13 березня було зафіксовано перший летальний кінець у результаті коронавірусної інфекції. На 22 травня 2022 року в Україні налічувалося 5009301 тих, хто заразився, з них померлих — 108497.</p>
+                <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+                    <button href type="button" class="btn btn-primary btn-lg px-4 me-md-2">Детальніше про ситуацію в Україні</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container px-4 py-5 mt-5" id="hanging-icons">
+        <h2 class="pb-2 border-bottom">Інше</h2>
+        <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+            <div class="col d-flex align-items-start">
+                <div class="icon-square bg-light text-dark d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3 mt-2">
+                    <img src="data:image/png;base64,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" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="24px" height="24px" loading="lazy">
+                </div>
+                <div>
+                    <h2>Області</h2>
+                    <p>Детальна інформація про епідеміологічну ситуацію у кожній області України та інтерактивна мапа країни із актуальними даними.</p>
+                    <a href="regions" class="btn btn-primary">
+                        Переглянути
+                    </a>
+                </div>
+            </div>
+            <div class="col d-flex align-items-start">
+                <div class="icon-square bg-light text-dark d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3 mt-2">
+                    <img src="https://icon-library.com/images/icon-for-information/icon-for-information-27.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="24px" height="24px" loading="lazy">
+                </div>
+                <div>
+                    <h2>Інформація</h2>
+                    <p>Актуальні відомості про хворобу, засоби безпеки та рекомендацй лікарів щодо дій під час хвороби та карантину. </p>
+                    <a href="info" class="btn btn-primary">
+                        Переглянути
+                    </a>
+                </div>
+            </div>
+            <div class="col d-flex align-items-start">
+                <div class="icon-square bg-light text-dark d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3 mt-2">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8xN05PctF6RTNQ7fVq7bcoUWtDTPqTXLmbQ&usqp=CAU" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="24px" height="24px" loading="lazy">
+                </div>
+                <div>
+                    <h2>Контакти</h2>
+                    <p>Сторінка з інформацією про розробника ресурсу, контакти за якими ви маєте можливість зв'язатися з нами або залишити відгук.</p>
+                    <a href="about" class="btn btn-primary">
+                        Переглянути
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div th:insert="blocks :: footer" class="container"></div>
+</body>
+</html>

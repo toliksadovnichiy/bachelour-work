@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Контакти</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js">
+</head>
+<body>
+<div th:insert="blocks :: header"></div>
+<div class="container mt-5">
+    <h1>Контакти</h1>
+    <main>
+        <h1>Дякуємо, що ви скористалися нашим сервісом</h1>
+        <p class="fs-5 col-md-8">Сподіваємося що ви знайшли його корисним для себе, та задоволені функціоналом та користувацьким інтерфейсом. Нижче ви можее перейти на наші соціальні мережі та залишити відгук, або поділитися сервісом із друзями.</p>
+
+        <div class="mb-5">
+            <a href="/docs/5.2/examples/" class="btn btn-primary btn-lg px-4">Допомогти фінансово</a>
+        </div>
+
+        <hr class="col-3 col-md-2 mb-5">
+
+        <div class="row g-5">
+            <div class="col-md-6">
+                <h2>Місцезнаходження</h2>
+                <p>На даний час ми не маємо офісу з причини того що нашої компанії не існує, сервіс було розроблено для навчальних цілей.</p>
+                <ul class="icon-list ps-0">
+                    <li class="d-flex align-items-start mb-1"><a href="https://kpi.ua/" rel="noopener" target="_blank">НТУУ "КПІ ім. Ігоря Сікорського"</a></li>
+                    <li class="text-muted d-flex align-items-start mb-1">Адрес: проспект Перемоги, 37, Київ, 03056</li>
+                </ul>
+            </div>
+
+            <div class="col-md-6">
+                <h2>Зв'язок</h2>
+                <p>Нижче представлені наші соціальні мережі</p>
+                <ul class="icon-list ps-0">
+                    <li class="d-flex align-items-start mb-1"><a href="https://www.facebook.com/">Facebook</a></li>
+                    <li class="d-flex align-items-start mb-1"><a href="https://twitter.com/">Twitter</a></li>
+                    <li class="d-flex align-items-start mb-1"><a href="https://web.telegram.org/k/">Telegram</a></li>
+                </ul>
+            </div>
+        </div>
+    </main>
+</div>
+<div th:insert="blocks :: footer" class="container"></div>
+</body>
+</html>
